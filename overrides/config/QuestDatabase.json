@@ -1,0 +1,350 @@
+{
+  "build:8": "3.5.329",
+  "format:8": "2.0.0",
+  "questDatabase:9": {
+    "0:10": {
+      "questID:3": 0,
+      "preRequisites:11": [],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "整合包注意事项",
+          "desc:8": "欢迎来到精简版魔法整合包\n这个整合包旨在把gtnh中的魔法线路单拉出来供玩家游玩\n以下是一些注意事项：\n1.整合包里的怪物会变得更强，更难对付！\n2.晚上会黑的伸手不见五指，虽然史蒂夫没有手指。\n3.死亡时，你身上的东西不会到处乱飞，而是会变成一个墓碑，这个墓碑除非玩家手动破坏，否则不会因为其他原因被破坏，所以放心大胆的探险吧！\n4.暮色的boss被史诗级增强，想要挑战它们绝非易事，所以在准备万全之前，不要轻易去暮色森林挑战boss。当然，挖矿还是可以的。\n5.怪物有几率变为精英怪，拥有各种稀奇的招式，击杀它们，掉落附魔书，包括宝藏附魔。"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "1:10": {
+      "questID:3": 1,
+      "preRequisites:11": [
+        0
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:stone_pickaxe",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "首要任务",
+          "desc:8": "想要在这个恶劣的世界中生存下去\n你首先需要下矿，获得钻石，并用钻石制作暮色传送门核心，来开启暮色森林的大门，\n暮色的boss虽然难打，但是暮色森林的小型怪物还是很简单的，到了暮色森林，一切矿物问题就会迎刃而解！"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "index:3": 0,
+          "taskID:8": "bq_standard:checkbox"
+        }
+      },
+      "rewards:9": {}
+    },
+    "2:10": {
+      "questID:3": 2,
+      "preRequisites:11": [
+        1
+      ],
+      "properties:10": {
+        "betterquesting:10": {
+          "issilent:1": 0,
+          "snd_complete:8": "minecraft:entity.player.levelup",
+          "lockedprogress:1": 0,
+          "tasklogic:8": "AND",
+          "repeattime:3": -1,
+          "visibility:8": "NORMAL",
+          "simultaneous:1": 0,
+          "icon:10": {
+            "id:8": "minecraft:written_book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "globalshare:1": 0,
+          "questlogic:8": "AND",
+          "snd_update:8": "minecraft:entity.player.levelup",
+          "autoclaim:1": 0,
+          "repeat_relative:1": 1,
+          "ismain:1": 0,
+          "name:8": "发展路线",
+          "desc:8": "这里的发展路线推荐为：\n神秘时代6 ---\u003e 巫术：新生 ---\u003e 血魔法2\n你可以用植物魔法来作为辅助模组，它会使你的旅行变得更加畅快！\n\n想要开启神秘时代6的旅程，你首先要收集6色神秘水晶碎片，这是一个大工程，但是，你也可以在地牢的箱子里面找到这些水晶碎片，所以在你有一定能力之后，可以尝试去地牢进行摸索！\n\n找到任意一个水晶碎片后，把它扔出去，再捡回来，你会提示被扎到手指，然后睡一觉，跟随异梦的指引，制作出魔导手册！"
+        }
+      },
+      "tasks:9": {
+        "0:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 0,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "aer"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "aqua"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "terra"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "3:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "ignis"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "4:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "perditio"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "5:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 5,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "ordo"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "1:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 1,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thaumcraft:salis_mundus",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "minecraft:bookshelf",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        },
+        "2:10": {
+          "partialMatch:1": 1,
+          "autoConsume:1": 0,
+          "groupDetect:1": 0,
+          "ignoreNBT:1": 0,
+          "index:3": 2,
+          "consume:1": 0,
+          "requiredItems:9": {
+            "0:10": {
+              "id:8": "thaumcraft:thaumonomicon",
+              "Count:3": 1,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          },
+          "taskID:8": "bq_standard:retrieval"
+        }
+      },
+      "rewards:9": {
+        "0:10": {
+          "rewardID:8": "bq_standard:choice",
+          "index:3": 0,
+          "choices:9": {
+            "0:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 20,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "ordo"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "1:10": {
+              "id:8": "thaumcraft:crystal_essence",
+              "Count:3": 20,
+              "tag:10": {
+                "Aspects:9": {
+                  "0:10": {
+                    "amount:3": 1,
+                    "key:8": "perditio"
+                  }
+                }
+              },
+              "Damage:2": 0,
+              "OreDict:8": ""
+            },
+            "2:10": {
+              "id:8": "thaumcraft:salis_mundus",
+              "Count:3": 3,
+              "Damage:2": 0,
+              "OreDict:8": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  "questLines:9": {
+    "0:10": {
+      "quests:9": {
+        "0:10": {
+          "sizeX:3": 24,
+          "x:3": -60,
+          "y:3": -60,
+          "id:3": 0,
+          "sizeY:3": 24
+        },
+        "1:10": {
+          "sizeX:3": 24,
+          "x:3": -60,
+          "y:3": -24,
+          "id:3": 1,
+          "sizeY:3": 24
+        },
+        "2:10": {
+          "sizeX:3": 24,
+          "x:3": -60,
+          "y:3": 12,
+          "id:3": 2,
+          "sizeY:3": 24
+        }
+      },
+      "lineID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "visibility:8": "NORMAL",
+          "name:8": "mpl.bq.title.1",
+          "icon:10": {
+            "id:8": "minecraft:book",
+            "Count:3": 1,
+            "Damage:2": 0,
+            "OreDict:8": ""
+          },
+          "bg_image:8": "",
+          "bg_size:3": 256,
+          "desc:8": "No Description"
+        }
+      },
+      "order:3": 0
+    }
+  },
+  "questSettings:10": {
+    "betterquesting:10": {
+      "livesdef:3": 3,
+      "pack_name:8": "",
+      "home_anchor_y:5": 0.0,
+      "livesmax:3": 10,
+      "home_anchor_x:5": 0.5,
+      "editmode:1": 1,
+      "hardcore:1": 0,
+      "home_image:8": "betterquesting:textures/gui/default_title.png",
+      "party_enable:1": 1,
+      "pack_version:3": 0,
+      "home_offset_x:3": -128,
+      "home_offset_y:3": 0
+    }
+  }
+}
