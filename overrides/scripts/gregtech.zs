@@ -60,6 +60,10 @@ global wiremill                     as RecipeMap = RecipeMap.getByName("wiremill
 
 
 // Tools
+<ore:gtceKnife>.addItems([
+        <gregtech:meta_tool:15>.withEmptyTag()]);
+
+
 <ore:gtceWrenches>.addItems([
 	<gregtech:meta_tool:8>.withEmptyTag(), 
 	<gregtech:meta_tool:28>.withEmptyTag(), 
