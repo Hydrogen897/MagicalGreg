@@ -1,4 +1,4 @@
-#priority 999999
+#priority 998
 
 import mods.gregtech.MetaItem;
 import crafttweaker.oredict.IOreDictEntry;
@@ -22,6 +22,7 @@ MetaItem.create(8, "chip_file");
 MetaItem.create(9, "chip_wire_cutter");
 MetaItem.create(10, "chip_soft_hammer");
 MetaItem.create(11, "chip_mortar");
+MetaItem.create(12, "chip_knife");
 
 var tools as IOreDictEntry[] = [
        <ore:gtceWrenches>,
@@ -31,7 +32,8 @@ var tools as IOreDictEntry[] = [
        <ore:gtceFiles>,
        <ore:gtceWireCutters>,
        <ore:gtceSoftHammers>,
-       <ore:gtceMortars>
+       <ore:gtceMortars>,
+       <ore:gtceKnifes>
 ];
 
 var chips as IItemStack[] = [
@@ -42,7 +44,8 @@ var chips as IItemStack[] = [
         <metaitem:chip_file>,
         <metaitem:chip_wire_cutter>,
         <metaitem:chip_soft_hammer>,
-        <metaitem:chip_mortar>
+        <metaitem:chip_mortar>,
+        <metaitem:chip_knife>
 ];
 
 for i,tool in tools {
