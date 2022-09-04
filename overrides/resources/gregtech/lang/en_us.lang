@@ -3,3 +3,17 @@ material.magic=Magic
 material.thaumium=Thaumium
 material.void=VoidMetal
 material.amber=Amber
+
+metaitem.tf_crystal.name=Twilight Forest Crystal
+metaitem.wand_shard.name=Wand Shard
+metaitem.bow_shard.name=Bow Shard
+
+metaitem.chip_wrenche.name=Disposable Wrenche Chip
+metaitem.chip_screwdriver.name=Disposable Screwdriver Chip
+metaitem.chip_hard_hammer.name=Disposable HardHammer Chip
+metaitem.chip_saw.name=Disposable Saw Chip
+metaitem.chip_file.name=Disposable File Chip
+metaitem.chip_wire_cutter.name=Disposable WireCutter Chip
+metaitem.chip_soft_hammer.name=Disposable SoftHammer Chip
+metaitem.chip_mortar.name=Disposable Mortar Chip
+metaitem.chip_knife.name=Disposable Knife Chip
