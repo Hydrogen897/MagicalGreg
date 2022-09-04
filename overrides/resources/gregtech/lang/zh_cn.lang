@@ -3,3 +3,17 @@ material.magic=魔力
 material.thaumium=神秘
 material.void=虚空金属
 material.amber=琥珀
+
+metaitem.tf_crystal.name=暮色激活水晶
+metaitem.wand_shard.name=法杖碎片
+metaitem.bow_shard.name=弓碎片
+
+metaitem.chip_wrenche.name=一次性扳手芯片
+metaitem.chip_screwdriver.name=一次性螺丝刀芯片
+metaitem.chip_hard_hammer.name=一次性锤子芯片
+metaitem.chip_saw.name=一次性锯芯片
+metaitem.chip_file.name=一次性锉芯片
+metaitem.chip_wire_cutter.name=一次性剪线钳芯片
+metaitem.chip_soft_hammer.name=一次性软锤芯片
+metaitem.chip_mortar.name=一次性研钵芯片
+metaitem.chip_knife.name=一次性刀芯片
