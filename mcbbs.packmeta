@@ -1,9 +1,9 @@
 {
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
-  "name": "magical greg",
+  "name": "Magical Greg",
   "version": "1.0",
-  "author": "keletu",
+  "author": "KELETU666666",
   "description": "",
   "fileApi": "",
   "url": "",
@@ -23,31 +23,31 @@
   "files": [
     {
       "path": "config/additions.cfg",
-      "hash": "67a212878d1db9078872874c0760c230a9b16221",
+      "hash": "7ad803cddddf73de7bf5920bd814996f6cebd836",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Animus.cfg",
-      "hash": "54eccdde943c0fb503e76fdfdf1dd981a797539e",
+      "hash": "e53c06f908dfa4cb086bd71c91cbff8408b3457d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/appleskin.cfg",
-      "hash": "86715da38df9c9446ef1c97e02d49325fc1f41e1",
+      "hash": "c1ec2cbacb5911a80574d853ed0d7ea477aacee8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/AppliedEnergistics2/AppliedEnergistics2.cfg",
-      "hash": "d34da3d9d5024385bca2ed70eac00504ccc0751b",
+      "hash": "0c20d5fba194f0d869f3d7bffcfbab8150326db9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/AppliedEnergistics2/CustomRecipes.cfg",
-      "hash": "ca7987687acb09ec2d582059b3b7c3abaadf02c3",
+      "hash": "9d6168495220749722cbdb9e82c02e22afacf87e",
       "force": true,
       "type": "addon"
     },
@@ -65,37 +65,37 @@
     },
     {
       "path": "config/AppliedEnergistics2/VersionChecker.cfg",
-      "hash": "5ad58f81fdfa186106ac6453c418cd60a53853d5",
+      "hash": "2db7bccd223361b63598f6be8e4cda1201c33a3a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/arcanearteries.cfg",
-      "hash": "888d332ff179a7881b88503bd85efd5c3b4850c7",
+      "hash": "b93f207c2c491c3cd6a630887760949c66427152",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/avaritia.cfg",
-      "hash": "bc9e65341d3c77ff7d6efd422799b86f8d0df3ba",
+      "hash": "a815ddcf1ee0fcc2b0513b54d491b772af152202",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/AvaritiaTweaks.cfg",
-      "hash": "a38b40e430e7015d772b1a5e1cd6579c19367ff1",
+      "hash": "a73a97004a9057495cc0cb7fed8a53921491b420",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/backpack.cfg",
-      "hash": "465a5ebd7c35132af156c306efac80865b47ca70",
+      "hash": "5f225f9d161ea5818660df65edeab04a2c664433",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/baubles.cfg",
-      "hash": "e07ceaedbcd81186952b55680e9bc992409bb4b3",
+      "hash": "3081e65935f2ad17112769a73d2a1997e9e47fe5",
       "force": true,
       "type": "addon"
     },
@@ -113,25 +113,25 @@
     },
     {
       "path": "config/betterquesting/questbook.cfg",
-      "hash": "ab32ca04400145a9cca956eeb7319bf7d445bd08",
+      "hash": "fcd211a9f370c8fa89b1ad78b9067ad614af59c3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/betterquesting.cfg",
-      "hash": "8525c67b813819b6a5f2d3dd98433802c1872647",
+      "hash": "f786633e405ea2aa4ec01d49bbfe5b159df7d391",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BetterQuestingTriggerer.cfg",
-      "hash": "ba09ec1679e5c64cd66f6fe9fffa87053f797fb9",
+      "hash": "c82ec528599180bdfd7b8f24cbad8dbd732e98f8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/bibliocraft.cfg",
-      "hash": "792c6edb6e14aec0d2ebdec8e22f6995d00fd4d1",
+      "hash": "8d69053933f1831a159ebd73b11a8be4a40ba010",
       "force": true,
       "type": "addon"
     },
@@ -773,2647 +773,2647 @@
     },
     {
       "path": "config/biomesoplenty/gameplay.cfg",
-      "hash": "7f7dcde89222add05b7d3cba74054142d41a1795",
+      "hash": "48c4d12673e0d608212a839e34d67e1c62cf1cb6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/biomesoplenty/misc.cfg",
-      "hash": "0e94ee76b6a5f46a3b67ca9e83d230b327c2fae5",
+      "hash": "4d51bcc04188b481451340a3b814217a24324922",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/BiomeTweaker.cfg",
-      "hash": "9d3cb2cbfb3d0b91aec217e9e07f57eebba44cd5",
+      "hash": "fca5f98547d30411de6414f7f2554dd9a9fde39e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Alps (biomesoplenty_alps).json",
-      "hash": "9ef125d8aae139f65f7bc26e6fd0f19c4ea550e7",
+      "hash": "0649f86e8ce36187b0dd1a91699f54acef888822",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/AlpsFoothills (biomesoplenty_alps_foothills).json",
-      "hash": "79a69ae11c26c6aa59a67fb69a83cac6024bf157",
+      "hash": "62291108526a66d074fc0c07d04d6652652c78ab",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Bamboo_Forest (biomesoplenty_bamboo_forest).json",
-      "hash": "bf8b1626e10f063a69ab924a4dc75cd1aeb99e3c",
+      "hash": "eabe56ef4d6bbb703408f53c33831c88e555f785",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Bayou (biomesoplenty_bayou).json",
-      "hash": "8b7ade655a0325edc727c1f009f34f6e6b4b8436",
+      "hash": "c638df18b1a48e3dad92a4ce915f7aa91d9b147a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Beach (minecraft_beaches).json",
-      "hash": "37ae08625ab40233f1754a212ea8dd6cf68a8fac",
+      "hash": "f3e8950f4cf74aef09d600fd17077bd8004b33a5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Birch_Forest (minecraft_birch_forest).json",
-      "hash": "a4ca615612462f0eda828bce096565b01b270620",
+      "hash": "72e66bfa50da4a7dddd1c6ef5d396ec0e67f9060",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Birch_Forest_Hills (minecraft_birch_forest_hills).json",
-      "hash": "28115d1085c0d6858d9591c297a111b433cad2a6",
+      "hash": "9553e4e0f78e3e3db15292bb2f5c59bddff85df0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Birch_Forest_Hills_M (minecraft_mutated_birch_forest_hills).json",
-      "hash": "e9ef91aeff5a1053a0cd4cf6b16ac9caed0d2ce9",
+      "hash": "1446b0f1b8a8c4187bed82ac71bf1334c52dd812",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Birch_Forest_M (minecraft_mutated_birch_forest).json",
-      "hash": "ae0dd9b4c619f8ac6f1c12855d118f90030c280c",
+      "hash": "8048d00c13394a8b4d7becc6627ecbd8bf2feb01",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Bog (biomesoplenty_bog).json",
-      "hash": "d17aa2967c72db4312a5b1c2269de139569be18c",
+      "hash": "80d451f48179ae73563f3b1d6b762407a0a9e0d8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Boreal_Forest (biomesoplenty_boreal_forest).json",
-      "hash": "4a9a7156b696744b395e42a510bce10eb397b35f",
+      "hash": "94d4dc41f0fde79e5a9663efed0c3ce8a757b7a2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Brushland (biomesoplenty_brushland).json",
-      "hash": "c997e2d20229b1be480e6f3f05035cf602977d3b",
+      "hash": "70c2f9973fcab5615d4eddf21adf69a5a95e5c42",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Chaparral (biomesoplenty_chaparral).json",
-      "hash": "131e958f418299e0e01cd58a09744f14ffd0eca1",
+      "hash": "9baae7d85aac892e884844b884520043b9a4814a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cherry_Blossom_Grove (biomesoplenty_cherry_blossom_grove).json",
-      "hash": "8d1359b226c726aa7a02ee8640103928e862fd2e",
+      "hash": "e4d9920f1f2b9268fed7d1c598df53de166a26b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cold_Beach (minecraft_cold_beach).json",
-      "hash": "283a6426c881019e39eade77d066a7e31453391d",
+      "hash": "8fdf7f63e0d916e8356f0997c2829f67b014cd62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cold_Desert (biomesoplenty_cold_desert).json",
-      "hash": "fefece9b6d3120b8143e76b2f082ea9d6bdda720",
+      "hash": "d9b4fb7335d194ae1728c35f3fd4a938c34518e3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cold_Taiga (minecraft_taiga_cold).json",
-      "hash": "4796361af09c5dc04194ade35960f0d95f98390f",
+      "hash": "10225d6a70f4e34af6c45541f13a8cd483b3c17e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cold_Taiga_Hills (minecraft_taiga_cold_hills).json",
-      "hash": "536d0b70d33e78ec2f9738e3a5bbce9a5985a7f8",
+      "hash": "07ca02c5d0c43e271d00f6654e14710ca8bf8db1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Cold_Taiga_M (minecraft_mutated_taiga_cold).json",
-      "hash": "d7513fe0c9e20666c8fff89c49fc16b52481a8ff",
+      "hash": "cdfaacaf1d8813e98777ea050ced7c4369b1f8a7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Coniferous_Forest (biomesoplenty_coniferous_forest).json",
-      "hash": "40d7a7c8d00d4df254328ef215ce5d455ae69335",
+      "hash": "338dfb18572f9febefb5a2d3be8c37c1e60ffc71",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Coral_Reef (biomesoplenty_coral_reef).json",
-      "hash": "1f5e346e3ffefe8139a361612b63d331f8f92591",
+      "hash": "e1b342b4b8f4e08372d9fcbd9aea3ebd8c2057f9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Corrupted_Sands (biomesoplenty_corrupted_sands).json",
-      "hash": "92a583bdb37780e4f88b537c0fd29b9b2456a576",
+      "hash": "acb6738c8ab288478722ff4345baf3b4623f4597",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Crag (biomesoplenty_crag).json",
-      "hash": "0d67c4ecce24d29f72f91e4c6d904f1737fda1ff",
+      "hash": "1c2e358d193883045fbf66106632cbe21f99d58e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Dark_Forest (twilightforest_dark_forest).json",
-      "hash": "2f8ce086b82bf0c594ff138869880724df8200ee",
+      "hash": "ae9d6a1fc69c6662ca04351b0b37e9bdbcff3d7f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Dark_Forest_Center (twilightforest_dark_forest_center).json",
-      "hash": "b5a4306b170a21b4ffd2205f4bb9bc3a4710adf7",
+      "hash": "496a17d445cc492ccc60513b02c7a976c976dc5e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Dead_Forest (biomesoplenty_dead_forest).json",
-      "hash": "4f6989ede6767fe1687765a9a59e0bface208af7",
+      "hash": "b7c9e88a52618ff81d5ff8f9a21812cf22eb965c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Dead_Swamp (biomesoplenty_dead_swamp).json",
-      "hash": "69743b57ee592297485beeab1068cf87a9202786",
+      "hash": "fe442f8dbf2ef21bccc55d79da259f986693aff7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Deep_Mushroom_Forest (twilightforest_deep_mushroom_forest).json",
-      "hash": "f9c5f030d1029bd3074157cfed36a77f6f23c04b",
+      "hash": "f2587aafc2c83a61b93b37fdd550912d14183c2d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Deep_Ocean (minecraft_deep_ocean).json",
-      "hash": "241883099821d8a8aa1bfe3749ff562318d7bb18",
+      "hash": "c5536d0bba86c4e79514efd7947830c24149f4c5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Dense_Twilight_Forest (twilightforest_dense_twilight_forest).json",
-      "hash": "2e49c70285a3d5dab90ef0eee779edc7e700401d",
+      "hash": "8c5ef21ee72fd9063013935a556add2916b19f93",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Desert (minecraft_desert).json",
-      "hash": "5807b07b986c6f248a704d6203266b32ae2c7845",
+      "hash": "f541062e49dc13c23c0663ea54584dde97769978",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/DesertHills (minecraft_desert_hills).json",
-      "hash": "fcefe37b7b055f94d737eda303d367574bd6d14a",
+      "hash": "7a529620d0dd359f6f4a070f12e6d4434bf832fc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Desert_M (minecraft_mutated_desert).json",
-      "hash": "02f63cc39c2e393d2682edc35b1d07d22d86fadc",
+      "hash": "a7862a6ddf10030646c6e4b478969f749585452f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Eerie (thaumcraft_eerie).json",
-      "hash": "fb6a519962acb7a89b841d15c95fcc577d086602",
+      "hash": "0e1a02ba5a4ed38399104f66fc02debae4f8729a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Emptiness (thaumicaugmentation_emptiness).json",
-      "hash": "c42da32cdf9fd4135fba0c162f75312e317f90c9",
+      "hash": "84adeb9e2aa424b491364bc2b0bb0a5556c1be9f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Emptiness_Highlands (thaumicaugmentation_emptiness_highlands).json",
-      "hash": "b01d898230bb8492fc6d1f2e5e738f7c77f771e4",
+      "hash": "82bd0652243e79131171ebf4ceceb416d3469eba",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Enchanted_Forest (twilightforest_enchanted_forest).json",
-      "hash": "2d47103dfd5bf8d2e370fa915557960398a2d3cc",
+      "hash": "2390b93aff34296f0a2fa7ba6e1977070f5ef96b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Eucalyptus_Forest (biomesoplenty_eucalyptus_forest).json",
-      "hash": "e3c95f45fa1f273e497f5c49ebef5b082109f645",
+      "hash": "63cde4c6fcafccfcd6c125b3a79f4ba3bb4f25a3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Extreme_Hills (minecraft_extreme_hills).json",
-      "hash": "b6d784fc45ca962594e1f41f86084fe1d5570008",
+      "hash": "24b96636cf1893b8f2358601f271a33d3e36cbb6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Extreme_Hills_ (minecraft_extreme_hills_with_trees).json",
-      "hash": "7cd131252a3fd1df56bd01fd1d73437b3a4009d3",
+      "hash": "17b5ff2fdf2767bb3415d53ef97da55b37e938e2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Extreme_Hills_Edge (minecraft_smaller_extreme_hills).json",
-      "hash": "0e31dd28cc84b709b14b78edbc227dfb5f4f6c95",
+      "hash": "e9ba9a0e9e6e83ce0039df2b74c975ccac02195d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Extreme_Hills_M (minecraft_mutated_extreme_hills).json",
-      "hash": "c122e54a5e6383fbfee2cc9e2af075185923e0c3",
+      "hash": "7a9e7c2d7ae3460caff75840086e5ad682adfcaa",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Extreme_Hills__M (minecraft_mutated_extreme_hills_with_trees).json",
-      "hash": "fac8486f666146422aed3384c3ef79b023c7f113",
+      "hash": "6e6ed903f6dc8b0322c24b52fd3f591b871f44c7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Fen (biomesoplenty_fen).json",
-      "hash": "fbcb2741423396eda2a55c4ffec695736470da11",
+      "hash": "b87af1b8e6d6d0189849d27e22d23592c931a764",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Final_Plateau (twilightforest_highlands_center).json",
-      "hash": "722f893ef76e1280e16e4874f95c181c61e7200f",
+      "hash": "635bb1d1dc2d628537a64b6c884259a521744669",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Firefly_Forest (twilightforest_firefly_forest).json",
-      "hash": "9db53052715a52609b3066dd36afd863bc503d75",
+      "hash": "f5b02f93f6314054c7f66e2961397c597cda65ec",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Fire_Swamp (twilightforest_fire_swamp).json",
-      "hash": "ee4028179d51dec743648399f7ea956042c1387d",
+      "hash": "34f7f6db3fbb6db7f687091be29f301bf47cb05d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Flower_Field (biomesoplenty_flower_field).json",
-      "hash": "9c93ba752e0358e7a74314710597ff58faf4be1f",
+      "hash": "6ee01245deb033f4437fcf1059ab59b75d1c0a95",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Flower_Forest (minecraft_mutated_forest).json",
-      "hash": "ae5691232f966bd98fb536b3025d75ad9f1a6381",
+      "hash": "33d1aed33cc354708a7b964909ab772b1ccf2e64",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Flower_Island (biomesoplenty_flower_island).json",
-      "hash": "1f00978dac8b860b424d9168064c7a936c8bff4d",
+      "hash": "ea943dd8e922e22c05eac619289092ceccb64bf9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Forest (minecraft_forest).json",
-      "hash": "099b9b87618c015b70f9e535e1d25bf25e1a52b7",
+      "hash": "e83b42702ef448ae710de6621d632a4c27119c74",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/ForestHills (minecraft_forest_hills).json",
-      "hash": "5bf01e3df3da92d9df5e1f3e45005f8e2dbe4ff6",
+      "hash": "fe1b7de26da7c132cb496aede935204babd346a0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/FrozenOcean (minecraft_frozen_ocean).json",
-      "hash": "2d9c3fd89d83fac602047fe616e9078d44c6e33b",
+      "hash": "37ddb040ad3a16af177e172f1a7a32def95f92fd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/FrozenRiver (minecraft_frozen_river).json",
-      "hash": "5a0097b7a7d6d58aad9873c8dc8bd5bd5b1e2499",
+      "hash": "092e421405ffd84a19d89346b7f0d37070f48537",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Fungi_Forest (biomesoplenty_fungi_forest).json",
-      "hash": "7e173283101a89734f62dae7ce4b67a63f5583e0",
+      "hash": "1e1717e4fed62ab31af8d2299c1c9305d65869b2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Glacier (biomesoplenty_glacier).json",
-      "hash": "11e9704d309983283e31ae3432b61553b4c9944a",
+      "hash": "71372ef35cfdc0148cd4a7fc068d1404992105e9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Grassland (biomesoplenty_grassland).json",
-      "hash": "5bc5dc2675b9d20754b0dc5e5da20026190c6832",
+      "hash": "db651b00c97397dbc015db915e99b9ba3e22e2a0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Gravel_Beach (biomesoplenty_gravel_beach).json",
-      "hash": "c77ba63825e39786bdf29c49e180e46b6788f37a",
+      "hash": "fecc883bc662df0a3b7b708a8ab701588ced9a07",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Grove (biomesoplenty_grove).json",
-      "hash": "634a1ffb8126633f64d4b46387f36c7e07480c50",
+      "hash": "e8600c316962a1ffe4a79d4a0520fde177736660",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Hell (minecraft_hell).json",
-      "hash": "c9b1d5149da84d118d5f12f99164011ef6686298",
+      "hash": "4ea2ee16fba0ea64785d397d269f04cbd34477e2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Highland (biomesoplenty_highland).json",
-      "hash": "c8a6e0c93c987192742426ace6322816807a91f4",
+      "hash": "445e75c77b658f75e4bf803ad071db82af74a414",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Ice_Mountains (minecraft_ice_mountains).json",
-      "hash": "57dca1aa252e7610dfdce660f7a4abc475c45c42",
+      "hash": "5bc62b5855e2f2fd3f7fb7c36b8165d6aa0ce07b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Ice_Plains (minecraft_ice_flats).json",
-      "hash": "0dea14dfae3104d8e3cd9fb8b9be4637f23d6620",
+      "hash": "39c719f79cf5a15869a9dfca02017c238ad0c55a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Ice_Plains_Spikes (minecraft_mutated_ice_flats).json",
-      "hash": "410a66d6bdebcf6c2a3bda43b96af589418f2f8c",
+      "hash": "d401b99f6991f13baa60100e9061c70b146d2d66",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Jungle (minecraft_jungle).json",
-      "hash": "f8b50e671fd5c8e9d2c3ca245dbd8b3504a89e1d",
+      "hash": "f770a8d3a1e369466e3f221701c156d6da297714",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/JungleEdge (minecraft_jungle_edge).json",
-      "hash": "838263065f1f3551b85e5589bd4b3d03598a87a2",
+      "hash": "b10747bfda1af4e4c365b8e5b650ce32e605fbbd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/JungleEdge_M (minecraft_mutated_jungle_edge).json",
-      "hash": "167d711fd5410f95254562ea89ef7874c4368882",
+      "hash": "b976df38e5c1b8d466a4ad685884756a7569cc63",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/JungleHills (minecraft_jungle_hills).json",
-      "hash": "d6fc937b03f2dca73b4d9c160802ae1d87e51689",
+      "hash": "fc24c3e139eb25c8d89eb0167f05d1a1b52d9570",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Jungle_M (minecraft_mutated_jungle).json",
-      "hash": "8ca4cc4ad16538bdab7bbe83388f73cc39c77ae1",
+      "hash": "98f5b6252511b289c91f69fe3bf4cf1136cb6b84",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Kelp_Forest (biomesoplenty_kelp_forest).json",
-      "hash": "b8ed3901b1ccb198e07d98a96ea49a2aa08a9879",
+      "hash": "57ff3f17156fd7e7f580e7c88793ae38fdc11e5a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Land_of_Lakes (biomesoplenty_land_of_lakes).json",
-      "hash": "bc1fa42d34ad10ae54586b4c0c7628c4320a9e01",
+      "hash": "84a848ab8c99c1aae8efb872ac143ef17f17258c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Lavender_Fields (biomesoplenty_lavender_fields).json",
-      "hash": "fb82f0dd8b4d346d1d63d59a77833b266f9fdedd",
+      "hash": "e46f4e3f14bd48ae6886d8a00b9255c8b239c54b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Lush_Desert (biomesoplenty_lush_desert).json",
-      "hash": "9f5be3742e882a94a86262f62504813b3d6acec2",
+      "hash": "25d13df8c33bef5da3e68b454f3a2706655f2429",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Lush_Swamp (biomesoplenty_lush_swamp).json",
-      "hash": "c0c3c2c6efeb5de0d13dfaabc87dd687d1d887b1",
+      "hash": "bc62947ac6ba2cd9ca3fcab29952516b0055316b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Magical_Forest (thaumcraft_magical_forest).json",
-      "hash": "3b67cf5818411fc757f15d4e6a4726d3ff5d349a",
+      "hash": "a2a479445acc813c40c6f68c7443828274dfe1a4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mangrove (biomesoplenty_mangrove).json",
-      "hash": "051ee067bf825a2b9dcffca20f18a1d6c2a00805",
+      "hash": "b1986a32fc73f4a7b5d51816a4806c9170855ba5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Maple_Woods (biomesoplenty_maple_woods).json",
-      "hash": "4b579750aa319659c3a3ac67923d1a693a2c7209",
+      "hash": "efafd5841924fb7288791158eea8e49ecd4989c3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Marsh (biomesoplenty_marsh).json",
-      "hash": "96ead0aa4c7e4d1220f4335bb3f21be1e67897b0",
+      "hash": "2513133bcdc06310fbccc0e53b913c97a38b3eb9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Meadow (biomesoplenty_meadow).json",
-      "hash": "7dd46e0fa53aa41ee4957177508078ce9f5d31ce",
+      "hash": "cf9d8bc8d5e88c7629f83481264bea227177f238",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mega_Spruce_Taiga (minecraft_mutated_redwood_taiga).json",
-      "hash": "7dd0ed21af89b33d3dc6f1bc7ffe866fb327e510",
+      "hash": "70a6e5901a0ba12eee69f09a6ea71bffd6abe346",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mega_Taiga (minecraft_redwood_taiga).json",
-      "hash": "e9f5d1fe2dfdd91696415620dda8d4d5d5605808",
+      "hash": "175a1fde74796b54ee664889b34f99cc2a593611",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mega_Taiga_Hills (minecraft_redwood_taiga_hills).json",
-      "hash": "caa06cb2b00b924caa7926345d9b18910b9bbdf4",
+      "hash": "8501178e56969465375efb7d3f67d4b242ae8107",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa (minecraft_mesa).json",
-      "hash": "a95b81d6d601b100921fd9dc2836fc8cdc81eb06",
+      "hash": "a0c107a5e95089f7a07cb469dacc5864700a91d9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa_Plateau (minecraft_mesa_clear_rock).json",
-      "hash": "f79a8e9b970230bc45017b4129255d7e42b2e04c",
+      "hash": "76d8a75a79e204231742c80e192a3d2778d8dac4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa_Plateau_F (minecraft_mesa_rock).json",
-      "hash": "e414b2a85be8c4177711e3690a9e9b635ec0c669",
+      "hash": "d5a8f6956be588c98dd54e2db85bf21a95570327",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa_Plateau_F_M (minecraft_mutated_mesa_rock).json",
-      "hash": "079215a064cfab1cfb2a286d99f2920c89c1b3a5",
+      "hash": "4916848d008b465e701a585461f4286c6cdae162",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa_Plateau_M (minecraft_mutated_mesa_clear_rock).json",
-      "hash": "d2bf90cefa87688849e761f9aefa7b6cd3eebffe",
+      "hash": "f021c72d599e206d2be181bc1fab4030dbb124c1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mesa__Bryce_ (minecraft_mutated_mesa).json",
-      "hash": "5d3581d81c1cc29bbd7a99011368f1a28b48dc99",
+      "hash": "10ec7cfc60d13cb9af9b61999e3e69c04004a14d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Moor (biomesoplenty_moor).json",
-      "hash": "e0f2b9e28daa041bfe3d3b479c21057098db6046",
+      "hash": "177209cc26bf6d155041f88b4543a54d0d7ef21f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mountain (biomesoplenty_mountain).json",
-      "hash": "9ce8ea22d5003dfe0861fa54efd7dfe45b716d1a",
+      "hash": "0bf025d0ac2a6fd043d75a09e9752f22b4edee5a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/MountainFoothills (biomesoplenty_mountain_foothills).json",
-      "hash": "0d02ce1c38ead0c4a8ed155f5752411170a6261c",
+      "hash": "e040e0174e5519037c8983c6593259729fb6ffd4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/MushroomIsland (minecraft_mushroom_island).json",
-      "hash": "f18853f0c4a1b64e3222b16042afdb23bd5e24a4",
+      "hash": "a85f9481710ede232637a41797b2551604b1cabd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/MushroomIslandShore (minecraft_mushroom_island_shore).json",
-      "hash": "19a04e5f517dcd7450a44262cac1fa02874c9a3b",
+      "hash": "f44fd0d4b828ef10ac1baaec2101bb8cccd35dfb",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mushroom_Forest (twilightforest_mushroom_forest).json",
-      "hash": "62d71cce5bbbbe3f782186aa3d8e7a4547fc3ba7",
+      "hash": "c973dbd3277e3137cf0a239abcd6aa20151a81e0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Mystic_Grove (biomesoplenty_mystic_grove).json",
-      "hash": "3e580418009e65fa7a97db670d46645fd77b336a",
+      "hash": "faf2ff2d35fee3872ed0ad0361af22a3b4c6d946",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Oak_Savanna (twilightforest_oak_savannah).json",
-      "hash": "50cad4048ff41bcff775b5b6caa38f60596eada6",
+      "hash": "17cfacc493dc675787545ca92eb8abdc6da19795",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Oasis (biomesoplenty_oasis).json",
-      "hash": "1c7ebbd7a542afea01fe89f7c4abdb4a2ab94477",
+      "hash": "7157cd360b664051381ae66a84064e10a9e3f343",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Ocean (minecraft_ocean).json",
-      "hash": "4917d5f3882d857d799e03b9bfb38536423539bd",
+      "hash": "70a0cca25f5afb4f71e2c781c18379bcd826a1b6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Ominous_Woods (biomesoplenty_ominous_woods).json",
-      "hash": "21302fdd55fee70970c730fd28f01430c112e3df",
+      "hash": "333563a4db73782ba7a0e8965c1d9df066ec7fb1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Orchard (biomesoplenty_orchard).json",
-      "hash": "2fbeee9e56e28b1e8f6294ac71d2063cafb2a4e3",
+      "hash": "3ef7f8a24dc25f8edb8790e7816b46878e9a6815",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Origin_Beach (biomesoplenty_origin_beach).json",
-      "hash": "66d60bcce56fe9c9f911004e2d4d898aa3561232",
+      "hash": "8760dbc54142c3884263ac0de8d4675f515fb090",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Origin_Island (biomesoplenty_origin_island).json",
-      "hash": "f4f9970f574a16e8a60178c44a9e5477e319f698",
+      "hash": "b57f8161d321cdedd15eba5f2a4a503dbe27f1f9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Outback (biomesoplenty_outback).json",
-      "hash": "43afcad6b0a529a66b4f9d04fd03ed52305964e5",
+      "hash": "f9000f44e15b273a71f064ebb05655b14df47827",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Outer_Lands (thaumcraft_eldritch).json",
-      "hash": "4073192f0502a4c81ebd9d29fc28307b21c55cd1",
+      "hash": "126f64c4718e529f8f0210676bcc6b3650fae470",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Overgrown_Cliffs (biomesoplenty_overgrown_cliffs).json",
-      "hash": "d3efd42681a575a9acc8cdcfa9e9c8267dd4d51d",
+      "hash": "7edd7b1b2e0d5c41aa1569c7565f80cf6e4fd8da",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Pasture (biomesoplenty_pasture).json",
-      "hash": "7e4188b672fe13be236f4d8346a562142c8907f6",
+      "hash": "75f814f1f4269984d87024e3132b94ac3fa70650",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Phantasmagoric_Inferno (biomesoplenty_phantasmagoric_inferno).json",
-      "hash": "77b97258ee853414f23b136f6fa92e96b5ac04d9",
+      "hash": "c8aba613558db07c6891b63b8d8d3402be24f4a3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Plains (minecraft_plains).json",
-      "hash": "5ed572a5c35cc44e06b25caddfc2b7540e1ad5cd",
+      "hash": "574059cf0645573fed3a82379c6a70722d2bfbe9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Prairie (biomesoplenty_prairie).json",
-      "hash": "46e90298bdbf87d1dc49371d98ad59918c8c7353",
+      "hash": "ec9ce66a2dcc555e9cabb5c8c5e081750057537f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Quagmire (biomesoplenty_quagmire).json",
-      "hash": "ba16d1b6aa05211a9fe31949958fb0b41eb97ee0",
+      "hash": "84e8bf380e166b48888f103887941407b3ab271a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Rainforest (biomesoplenty_rainforest).json",
-      "hash": "f48ee54f9836b82ca37e2ecfa70057d6d57add0f",
+      "hash": "dfc3e8c7e5209eed2e65e35378c6f19cccf4a8fe",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/RedwoodForest (biomesoplenty_redwood_forest).json",
-      "hash": "19a4daeacfb8dc269b7cbed87b89dda2c52f83b7",
+      "hash": "2a271cf3ba73a2addb7e2748fb59f5149e2c017e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/RedwoodForestEdge (biomesoplenty_redwood_forest_edge).json",
-      "hash": "566c7cdbb2388def85faeae8b687af7b29e1f77b",
+      "hash": "21084f1537e29689aa7a96b03cfb92ba1d024087",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Redwood_Taiga_Hills_M (minecraft_mutated_redwood_taiga_hills).json",
-      "hash": "86a30be52a0572d23bc54bab093042f7f68f4fd3",
+      "hash": "f2f6c60de869dd3dd6cb319780075526ccbd3f68",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/River (minecraft_river).json",
-      "hash": "c0674e52eee0aa91c4d4672f06633eb9f99a06a0",
+      "hash": "f2334c660a93892d4cb5bbe40c3b345d9437583e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Roofed_Forest (minecraft_roofed_forest).json",
-      "hash": "bfac1b2884218cda522ded3bdfea3fa976a71383",
+      "hash": "da7cc269de1b2df5221b87d73649120473c0ac7f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Roofed_Forest_M (minecraft_mutated_roofed_forest).json",
-      "hash": "eecaaf722a06e171ec387d861e22dfa0b7862cef",
+      "hash": "bf69c73536275489c30736bf6d06a9d773a1cdea",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Sacred_Springs (biomesoplenty_sacred_springs).json",
-      "hash": "81368202c7bab2da4a223d5a2316686474fc6289",
+      "hash": "449527d66dd4aad200cbe15ca008a906e8671648",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Savanna (minecraft_savanna).json",
-      "hash": "d1db8781298bbe9376a2d8b62bb9eeaa78bca0bf",
+      "hash": "836073459c5c50c756f42d36712259866e94f982",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Savanna_M (minecraft_mutated_savanna).json",
-      "hash": "5788f798f896afae1399310779029fb35993e819",
+      "hash": "bd2ebbaa54fbe97098214b7ea92f08a4bfb0f047",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Savanna_Plateau (minecraft_savanna_rock).json",
-      "hash": "5c443ace835c8fcabd59acee1c51a2beb4745248",
+      "hash": "05956202ab38dff77c2aa1bbf278945d0ba2037c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Savanna_Plateau_M (minecraft_mutated_savanna_rock).json",
-      "hash": "86d31888043b31436011a3f9401fdfba6d031d66",
+      "hash": "5185fda2e80f536934518cbf46de0abc3371ab66",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Seasonal_Forest (biomesoplenty_seasonal_forest).json",
-      "hash": "35891a2b5d49abe212543add4d8c730813a84127",
+      "hash": "64734b34fab4072c967a46a63e658c509f049305",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Shield (biomesoplenty_shield).json",
-      "hash": "0a458a69cd7c15857e10bc48e57a960d18212c5b",
+      "hash": "3ff36d262a975de859737fd310ea51201f9d5af4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Shrubland (biomesoplenty_shrubland).json",
-      "hash": "5c7dcdf78ce48af462a541e06179a557387910a0",
+      "hash": "0cff304f57ec0b0f56f043ff36e6bb28db46889c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/SnowyTundra (biomesoplenty_snowy_tundra).json",
-      "hash": "de9ec999b663629f88f1902d026f065ae494cfa4",
+      "hash": "33ab39b173ff1d2dbf4536573129d2543084a7dd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Snowy_Coniferous_Forest (biomesoplenty_snowy_coniferous_forest).json",
-      "hash": "4da6c1fce5e4a2211c796c077d4486f613710484",
+      "hash": "967e53b9175c68405be0b61ce13d8784af147552",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Snowy_Forest (biomesoplenty_snowy_forest).json",
-      "hash": "c5fd3ce96e955ae3ebd36e4b47d75b542a1a13f9",
+      "hash": "42184dada67207515c8383f8dee9a32fcd38dda8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Snowy_Forest (twilightforest_snowy_forest).json",
-      "hash": "3ae73ca625ef3f13718598e81deae7849c46648d",
+      "hash": "9136122a1f8c5237c22b3867c01f59f778b7ea83",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Spectral (randomthings_spectral).json",
-      "hash": "62635b9ad17f8eda9ca265fcfb08836eeeb37ed4",
+      "hash": "1b3a17f3c641351ccdd9e2059736bf954c612735",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Spooky_Forest (twilightforest_spooky_forest).json",
-      "hash": "041eeaa19c5fe05e73af736696121718db5954bc",
+      "hash": "491e769b88d6dd1b54830cf83d90e2a091fbc42a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Steppe (biomesoplenty_steppe).json",
-      "hash": "901ead5e9d04d2848a3290a535331759804745ae",
+      "hash": "136e44d1e9a50c0894b07739867d884d24cdb80b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Stone_Beach (minecraft_stone_beach).json",
-      "hash": "fa26f75e8ed1d639bcbe20dc752f6576247e1df4",
+      "hash": "179343675cdc6f465f67f18c65481c3c9edd83dc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Sunflower_Plains (minecraft_mutated_plains).json",
-      "hash": "c441d16bbcb6869d2f6e22e8daf593a4f907b04a",
+      "hash": "711339ab49efac81f20e0fe02dea03ef5e83ba60",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Swampland (minecraft_swampland).json",
-      "hash": "f9903ec6129b9c7ac244ba7448da504138a9ac30",
+      "hash": "4e6dcec7c45492f524707b3dd9f83a55599be4ad",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Swampland_M (minecraft_mutated_swampland).json",
-      "hash": "b97e7b983d76052ada353f74829a738042632131",
+      "hash": "8b8016f3cb99a86aa718c339a7379517baa4150f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Taiga (minecraft_taiga).json",
-      "hash": "2d1f4a74df358af7a954ce599b7e4e0801313d1b",
+      "hash": "f120e0b347f75d44083247a740b34f496addb837",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/TaigaHills (minecraft_taiga_hills).json",
-      "hash": "33077cadec81b3fdba7e0888495f50643651b4cc",
+      "hash": "c60d46c20508274ae01331188f61fa9b104c4cd1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Taiga_M (minecraft_mutated_taiga).json",
-      "hash": "11ba987e22a3039f838c454ff38250b3c0b2e8b9",
+      "hash": "a77132d7fa58c9c01ddbed0a6275d24e36fe865f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Tainted_Lands (thaumicaugmentation_tainted_lands).json",
-      "hash": "6114ea3ac6c5aa7c509411d1c5d7cf2d8e3c0feb",
+      "hash": "b72feb2ea14a02dc704c743225b1884a38e5a883",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Temperate_Rainforest (biomesoplenty_temperate_rainforest).json",
-      "hash": "995243c9e54cc1fdbc7da9a02fd60e97d39ba084",
+      "hash": "299e92e428626329cad4a83632712751bafade77",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/The_End (minecraft_sky).json",
-      "hash": "dcd0eaa469f7e18cdf4f64757460feeab5808f9c",
+      "hash": "be68862497ea4151ff236d2c903af2fc9cc23fd6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/The_Void (minecraft_void).json",
-      "hash": "26e45803901a7b9ba74454e08e5f31564685e524",
+      "hash": "edf923efb207f98a3b07bc7df5db0d6b4fe437f7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Thornlands (twilightforest_thornlands).json",
-      "hash": "c5f21aa2a4d38ab623b062d640700f5cd0478433",
+      "hash": "298f4f671bb553d78eca908ff2232e599cd3ee0f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Tropical_Island (biomesoplenty_tropical_island).json",
-      "hash": "247d1e6929585001b44aaa35813509e41791ca45",
+      "hash": "9b65f4a52c8bc4d3facb657cfce433bcf0853bd5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Tropical_Rainforest (biomesoplenty_tropical_rainforest).json",
-      "hash": "dbc52513d7a419296257f2fb282b7412b2e80a4d",
+      "hash": "4197db926363ca9f89aec227a3c83534f39696ad",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Tundra (biomesoplenty_tundra).json",
-      "hash": "bd69ecbc795377e46b4cbd14e7bd9731d46f1677",
+      "hash": "7ad1e5a327d976c59a728ff1f4d163d6b96651b7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Clearing (twilightforest_twilight_clearing).json",
-      "hash": "74c45bf1e3cb24dae266bdc4d8242fae092058e6",
+      "hash": "35ef1ec02426f5eed3d65a8a949953ee5395aa7e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Forest (twilightforest_twilight_forest).json",
-      "hash": "4f6a210fe5098ed3139a19c400ff894f02cf0de3",
+      "hash": "fb073e68560c1e9705fa3dde98b942367c7b8d6b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Glacier (twilightforest_twilight_glacier).json",
-      "hash": "406393c9308e55880ca117f32ba9e11fded1798d",
+      "hash": "62a16c8c4420e24b7764fb61851cd9c65b7141bd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Highlands (twilightforest_twilight_highlands).json",
-      "hash": "2f67e45516e4c11f597f99ac0b3b07037721aac0",
+      "hash": "3036765718a3cf8e2c34dd92cf7b95ca9dc2d174",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Lake (twilightforest_twilight_lake).json",
-      "hash": "f3008aeaeecc468bf6263f5490397764d3fdf974",
+      "hash": "f85e159b5238b549d310f908a25c38bd42dee6a2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Stream (twilightforest_twilight_stream).json",
-      "hash": "47acb8293fb3248bce541b2e6cef7e3fa8b0e294",
+      "hash": "dee3e95563d03deb9afbf8f8ae58fdc35df7a1cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Twilight_Swamp (twilightforest_twilight_swamp).json",
-      "hash": "c2c11da4191ba99e25599ba282b6933cd7d877f1",
+      "hash": "b6b82267ca419e43a5bf0ffd6b4ba66965cffb2d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Undergarden (biomesoplenty_undergarden).json",
-      "hash": "5c28c2f815bbefbe26c40d755cf1336737819cb3",
+      "hash": "cfcd32fc7b5b9335ce09658e406f39ae758a08ca",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Visceral_Heap (biomesoplenty_visceral_heap).json",
-      "hash": "a9520a8e4f43af8074f16a9f8fc5824263d16c77",
+      "hash": "755365257e95ee802c710327924bf318756899bf",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Volcanic_Island (biomesoplenty_volcanic_island).json",
-      "hash": "6214817c0c694fdc4cd629daf41f17c993fb1405",
+      "hash": "098527a16fee675abde2c4adbbfeb1d0a084fa84",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Wasteland (biomesoplenty_wasteland).json",
-      "hash": "cd419d41cd315cdee3173737adea697a1baedbd3",
+      "hash": "a8abdfd9a3794db02446947a6fd9306bcc202264",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Wetland (biomesoplenty_wetland).json",
-      "hash": "0eb5d045db5addcf7adad7bbcd01eb69f50d2804",
+      "hash": "2b6e64330f23282d4d0ec27695aa40641742e902",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/White_Beach (biomesoplenty_white_beach).json",
-      "hash": "e5114873bfc1f5876d323957551697c6d3f2d4de",
+      "hash": "8043a1299710f2f41ba17495e4058d0896a92dcd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Woodland (biomesoplenty_woodland).json",
-      "hash": "8e9a8bd8e7fdf398021858fdb83aa9099937086b",
+      "hash": "48258a03081e2d69129bdbc9558606ad8d4e53b2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/biome/Xeric_Shrubland (biomesoplenty_xeric_shrubland).json",
-      "hash": "b235ad5b104e4fcea4c8da9ca28504f461703505",
+      "hash": "f0f2497b4a9e990dd057e7085b6b2e0352f13426",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/emptiness (_emptiness).json",
-      "hash": "8dc20300b9c15984d35b95bc009edc83a3609515",
+      "hash": "39d683a0bde0a522a75f04a6dd53beeb83ae3b04",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/Nether (_nether).json",
-      "hash": "148f73927d59cb12094e5ff5dca04a4033311251",
+      "hash": "f999c5d0c096502b266d2f8610ed6b61105cab5d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/overworld ().json",
-      "hash": "7a0ac552a2925eafb8135f0016c3c20ff0a68c33",
+      "hash": "a52e0981e811a62d4745771910492f54866d392c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/Spectre (Spectre_).json",
-      "hash": "1108f86c1e846b4dae0a740b4910ce96cc3c383c",
+      "hash": "f07a4b2d13ed665206184fca3bd584d57cefd679",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/thaumictinkerer (_test).json",
-      "hash": "fc93fd71734904705db353cc917b608db2b0c6ab",
+      "hash": "98e5ede8fabf64c077be741cc2a4ffa876c79857",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/the_end (_end).json",
-      "hash": "3055c98f2552ccc2e831a0cb593f2f11f80bc109",
+      "hash": "221df130353eddeb4b51289843cb60a46a14ce2f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/the_nether (_nether).json",
-      "hash": "80afcb6f4e8dcb6870b84273efffc12beed7fd66",
+      "hash": "72bd52009ef11493ea4742a1ba6cd406d66fabd3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/dimension/twilight_forest (_twilightforest).json",
-      "hash": "2eeb2c61e88fa749d03b0af61c875b2f75c0e760",
+      "hash": "0ff307b3806f70a52ea9aeaa21236aa5698a486c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ArcaneBore (thaumcraft_arcanebore).json",
-      "hash": "5e2e0fd02d3e25e011603b53d739e77f47688f9e",
+      "hash": "78179223406e74873b1bd9da1d51620898996fe6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BabyCaveSpider (specialmobs_babycavespider).json",
-      "hash": "a4dcfcfce8f85292b67e71279255ad900672a46d",
+      "hash": "cc1abd4401b29b3f1cb942e6c364c1d3bd236c80",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BabyGhast (specialmobs_babyghast).json",
-      "hash": "a909b2d3b974ff5877dd0b628198f483a77abace",
+      "hash": "8da7c528a00d954ce413171dc04fcb0cb1bcfdaf",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BabySpider (specialmobs_babyspider).json",
-      "hash": "3b50477cd1d167c729f3c0dd7f75cf794d75c70b",
+      "hash": "4200049a79b55245924585a56b9223518ca957f4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Bat (minecraft_bat).json",
-      "hash": "d6b284f03ea9c7c9ca097bb66d66851ac26e0bd2",
+      "hash": "595ca74f1ea2a57d4206e9fbb9331b2e1a6bdcd7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BlackberrySlime (specialmobs_blackberryslime).json",
-      "hash": "6037a9323af60e443eb846bbe468f536faaa4ff4",
+      "hash": "8ea97354d7ee8955fab0fdcf80e7e9086a3ffcb5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Blaze (minecraft_blaze).json",
-      "hash": "5e0175f594ea4e23b8b5b94e2dad27b855924f42",
+      "hash": "cbadbef5ddb19e2c2318ac728c00bd26c62cb10a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BlindingEnderman (specialmobs_blindingenderman).json",
-      "hash": "646f25cefbe941ef6ab2c439b187e72499986546",
+      "hash": "2099fb9fe8313b7731be6cf233c9142c12f57042",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BlindingSilverfish (specialmobs_blindingsilverfish).json",
-      "hash": "a5c1fd7351b14bfdfc8e5dd250aa6457a23f5c67",
+      "hash": "cfae93f68f2bbafe534fbe272dc92e8c7ad7f8c9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BlueberrySlime (specialmobs_blueberryslime).json",
-      "hash": "e466f26eac431487d1c8b19bd664edf88256c03c",
+      "hash": "c7739544e67a5d61967fb431d96e86c266715e1a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BrainyZombie (thaumcraft_brainyzombie).json",
-      "hash": "9d9b578f0d9af727de82a02fb03a8b3f20b371f1",
+      "hash": "b1def898d3a053582957d1674ad26278231ba8f7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BrutePigZombie (specialmobs_brutepigzombie).json",
-      "hash": "1d898ace03eea91642c5728e443e34f7cbf54feb",
+      "hash": "af4530d26f99ce2e6a58e52c9fd086537e0a7acc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BruteSkeleton (specialmobs_bruteskeleton).json",
-      "hash": "917f1965654afeb7f779f7bbda456d5630121053",
+      "hash": "ad05e1c576a4a42d15eabaa6b5a5a73a4f16a89b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BruteWitherSkeleton (specialmobs_brutewitherskeleton).json",
-      "hash": "f1ac61cbf2b5f32294e7614f4bff287d9ac985f7",
+      "hash": "f2ff6e5645c6dd75fa22ffaecf821d7066d41e3e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/BruteZombie (specialmobs_brutezombie).json",
-      "hash": "cfa3124b59b04b8cc13f9f700ce910a6a0c4c0b2",
+      "hash": "15f579872191ac2328898c974a9b2c6015489f73",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CaramelSlime (specialmobs_caramelslime).json",
-      "hash": "8f1146d386a804dc8b5cc8802637d6dfd7322d9b",
+      "hash": "144fcba02e317a42eb7babbbd4d48feadaf4830a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CaveSpider (minecraft_cave_spider).json",
-      "hash": "55b9a8db6d068e7a83e69dc886e7f15bbf844489",
+      "hash": "2df6551a02a53600e140f3fb9f920f0a2374986a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Chicken (minecraft_chicken).json",
-      "hash": "9104e2f7c945d58857f74cf9fd69755ed78991ce",
+      "hash": "60c87ed4237bdf1597c25d75673727c498c07b17",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CinderBlaze (specialmobs_cinderblaze).json",
-      "hash": "fb2e9fb9cf922f5ded2b006514f31fcf53278574",
+      "hash": "a2d03dedf43fe64c0729aab30d7cb976cc0f8420",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ConflagrationBlaze (specialmobs_conflagrationblaze).json",
-      "hash": "d90c818e019b046f114181263b6b76a8af2c2508",
+      "hash": "27a4840b8c17e336896bd914bffb44bdf1ac4e6a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/corruption_avatar (thaumicwonders_corruption_avatar).json",
-      "hash": "58947b1d71b701e59c67dcfdfc6bdcd5ee9e370f",
+      "hash": "0254c5183cd55a4ce6f0b8db72c2ec0eec7343ac",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Cow (minecraft_cow).json",
-      "hash": "1d6cfc7cad6ec70b23f50bfe8bd83fa95a225e27",
+      "hash": "d8dc13e09bbf687d4c24850292cc9608e49ec1a5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Creeper (minecraft_creeper).json",
-      "hash": "6a57da99668dd148cd5afc21bdfc6aec924c5d97",
+      "hash": "d3993a63999fef89e608b00bc3561bd4ef38bf62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CultistCleric (thaumcraft_cultistcleric).json",
-      "hash": "f37c90e35fd0fc0d54eb7b4558c22f0b5b4e9aef",
+      "hash": "e559b9b050bb0719d79626c9ef6698bbed37428c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CultistKnight (thaumcraft_cultistknight).json",
-      "hash": "4e217c74b6415021c0ee00fcafd279ef5d98d9f9",
+      "hash": "834c80e235ab9f68e50d085f99e9c6bc09f4e824",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CultistLeader (thaumcraft_cultistleader).json",
-      "hash": "54e4fab54c476dee95f68f309368332b26cb3498",
+      "hash": "1181267793aff628229a23a0ad48fe5eb5453088",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CultistPortalGreater (thaumcraft_cultistportalgreater).json",
-      "hash": "f21c970918ce8e3eb46fcbd55b6ee116378a65e0",
+      "hash": "98fb4122863e6d86720c162813e8714657aa1e83",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/CultistPortalLesser (thaumcraft_cultistportallesser).json",
-      "hash": "25c2d4e85b6daf3ef22187f9a4b00b4cd16fa020",
+      "hash": "d30e5964d5bbfae5f4efabc3ac6970a48370c5ec",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DarkCreeper (specialmobs_darkcreeper).json",
-      "hash": "1a6eecef45d17eca2fa1947d9ff8b7b1ccee8de7",
+      "hash": "1ba216ef04d44121d60b4297214d39df431a4bfb",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DeathCreeper (specialmobs_deathcreeper).json",
-      "hash": "95ee877b989ec74b96bd8c0e59520fe5ba3dabda",
+      "hash": "a3dc169801562fa60ebc9af237d38a7d2ae2dda8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DesertSpider (specialmobs_desertspider).json",
-      "hash": "896917f8cd91c70d1c5f5ef8efceda069c606833",
+      "hash": "be37879c998025b1f36c5397fd00db04553560ec",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DirtCreeper (specialmobs_dirtcreeper).json",
-      "hash": "90e767aa0585fcbe963bcc791bfc6753e1661ded",
+      "hash": "1ad36e55f2ded131c23e2e4525df4f2e57e2ba23",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DominationWitch (specialmobs_dominationwitch).json",
-      "hash": "95a144f6c5325341448585697d9f0b7a128d45b1",
+      "hash": "e5b91f18d3092482f14d57d87355245b2b75f32b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Donkey (minecraft_donkey).json",
-      "hash": "920873d76fb347c9ced6f0fa1e275a2d2ad36314",
+      "hash": "b3700a4438151ae4b0c765ea5116ab09066bbdf0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DoomCreeper (specialmobs_doomcreeper).json",
-      "hash": "e95371029812b4913915361fe90f5e9fbc64b2f5",
+      "hash": "63810d4c0092a44132d023b1f8a18c85247c4324",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/DrowningCreeper (specialmobs_drowningcreeper).json",
-      "hash": "6cd21d4f3bf67d1b51f5c04565abf05cf4989a5a",
+      "hash": "ab50429b2ea6fa5ea9ba909e4728a5321a5386de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ElderGuardian (minecraft_elder_guardian).json",
-      "hash": "0db85a8b25fc6c7bc71b25b36a6e4dff29b20133",
+      "hash": "4d3d921ab63fc69fe3ff46d7e2e56b73f615b66b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EldritchCrab (thaumcraft_eldritchcrab).json",
-      "hash": "65c10f9ac38e94734b5d9593fc301c4ff7462102",
+      "hash": "c85e25f0a566c8da9e7214906f60ba11f88c55d4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EldritchGolem (thaumcraft_eldritchgolem).json",
-      "hash": "c6641cdb12690c37832c7c3a5ce5d9362ec5d6fa",
+      "hash": "ae5af0b017e7c76a1a0c55b53460556e59fe33d9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EldritchGuardian (thaumcraft_eldritchguardian).json",
-      "hash": "09a8a4d65b6c660cf836505622762a42aa7714ae",
+      "hash": "615a99761b800f8c3c201fad9777a73603fbc59c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EldritchWarden (thaumcraft_eldritchwarden).json",
-      "hash": "701964168a5a83d50d6a21f99e1ac3d96298d078",
+      "hash": "99c59f585ebf0370df87776c14dc1806c86f6397",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EmberBlaze (specialmobs_emberblaze).json",
-      "hash": "13937f15fbf523fc0320e78b2453724674a3f03b",
+      "hash": "635d93b1d810b193a71243554ad22b2cbd24997b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EnderCreeper (specialmobs_endercreeper).json",
-      "hash": "e5a5a8ae75aadffaee1b1cdddbbf8d08f057f0f1",
+      "hash": "58a8978676e5fa325974bc7cef215cafe51f1c75",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EnderDragon (minecraft_ender_dragon).json",
-      "hash": "a6ee8ebcff9a340d322e62f1fa8d995bdd470898",
+      "hash": "1f770043141ee96e6746e12a0bdd07d975cee391",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Enderman (minecraft_enderman).json",
-      "hash": "ce3698ccca2cbc86ad0df17198a7057e7f00c13c",
+      "hash": "b4d3b42a02d6c59f4421f0f8b38d6aa08857c062",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Endermite (minecraft_endermite).json",
-      "hash": "10a1c3c914abd9e500546f0c5f4fad75cd67b5b5",
+      "hash": "64d78ae002cdae6ad202448f2436990aa3394ce6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/EvocationIllager (minecraft_evocation_illager).json",
-      "hash": "110adf67102905256859f6d78aeb2d6bf939c7b0",
+      "hash": "078b16ecbc96df8a908d07ae2d6a667e8c94ec01",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FighterGhast (specialmobs_fighterghast).json",
-      "hash": "e1c8e463845ad1eccb0eff4d337c65cb40558750",
+      "hash": "f198caa8a605872739b26492dabef6a730781742",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Firebat (thaumcraft_firebat).json",
-      "hash": "052275899f09acd153f15545e529ff1777cb4e94",
+      "hash": "842dac32c7aa9ca57b5ed8121ff21ba520798d49",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FireCreeper (specialmobs_firecreeper).json",
-      "hash": "0a322d54c06c91758f173b3bc481bc44ea540bce",
+      "hash": "75d26916461e366f0c3c4abe8abb7ab1a60c7835",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FireSkeleton (specialmobs_fireskeleton).json",
-      "hash": "b5559066a5105f005ec31c342bffb43cb8189c88",
+      "hash": "f7a11d3a8e40dbb6573afe3f099a3f69e7f6ec2a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FireZombie (specialmobs_firezombie).json",
-      "hash": "6d09abd5477b77bd3ccc41a8b2d97289b2067b79",
+      "hash": "b9a2702f1694b9dbcc9cc45b1ead951090a3da7b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FishingPigZombie (specialmobs_fishingpigzombie).json",
-      "hash": "8ac886c3cbafd44dd0aa1642682297380d8c7911",
+      "hash": "37cf7039ab4589a06fc31769bd2e8ec6b6012824",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FishingSilverfish (specialmobs_fishingsilverfish).json",
-      "hash": "992bfa95e1e2c8d431d3dcbaf97b3d4663927b5c",
+      "hash": "814593cf7945a3751424c3e39ad7027feb69cbed",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FishingZombie (specialmobs_fishingzombie).json",
-      "hash": "d344b3504d54b32ed327caac3c256e038279973a",
+      "hash": "65f3270f934ce9a4a2f66d6523f3b353a5899e3d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FlyingCaveSpider (specialmobs_flyingcavespider).json",
-      "hash": "048a7de0f4ca139e814ea260d4e1136477ad2e09",
+      "hash": "15d5dbfb9a20882389b516ed6162aed22f8f40a8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FlyingLavaSlime (specialmobs_flyinglavaslime).json",
-      "hash": "3ce7ffc7af9ce4252cacda9a5d54029168ddc41c",
+      "hash": "827d3bd34f7ba9bdb1eae7e80008cabdaaecda54",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FlyingSilverfish (specialmobs_flyingsilverfish).json",
-      "hash": "25aebb078ba9632608475271d63ce68a496c6f20",
+      "hash": "5d03e86b95c1be1334b9eacd3cfe9c221a317391",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/FlyingSpider (specialmobs_flyingspider).json",
-      "hash": "a25975b3fdce0a97f8aceebf17589200a0e5a0ff",
+      "hash": "ec25639b34a9d47b5a78af34b09077461ef2422d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GatlingSkeleton (specialmobs_gatlingskeleton).json",
-      "hash": "12d8d310f0ceed8503091f98b944b4796a0554b4",
+      "hash": "fbea753d74fa707b609f4e9f044fb7e148f94211",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GatlingWitherSkeleton (specialmobs_gatlingwitherskeleton).json",
-      "hash": "057adaf75263b86ecbd358aae54f3e60b441873d",
+      "hash": "5ac0873792e17287f989cd75356e2a3ed1abcb31",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Ghast (minecraft_ghast).json",
-      "hash": "3bfe6e533ece25ec2bd21ec25e6b62478229e1ec",
+      "hash": "73efd627afe7a57bb77867b0195d1af2415f8087",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Giant (minecraft_giant).json",
-      "hash": "c1e8e3732d3af1ed27fbf81112ef6a8b0347c212",
+      "hash": "67451bde4b81fe171540ba46d4474bcadd47b7fd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantBrainyZombie (thaumcraft_giantbrainyzombie).json",
-      "hash": "e30f046aae0686bddf43368123ee80aefe45f87c",
+      "hash": "aca7d8a35a0dc0e126de595ff7f010b8c8f137ae",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantPigZombie (specialmobs_giantpigzombie).json",
-      "hash": "929ada9f109c6ce6a77dfec0ac7ebfedabd19f8f",
+      "hash": "eb6dea23ab304584755b4b457eba90fcd48f2978",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantSkeleton (specialmobs_giantskeleton).json",
-      "hash": "ae2b03a7219f3492f2f47540d6be55c94c7175ae",
+      "hash": "272b4f4c6c904d11f4d13458e9b88b613e66ba4a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantSpider (specialmobs_giantspider).json",
-      "hash": "3084d2ca436314a8087cb61982f6e3e76653c4f7",
+      "hash": "46498cafd625d0f81a7a7b3c4b808b8b947d515a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantWitherSkeleton (specialmobs_giantwitherskeleton).json",
-      "hash": "0a8a8c85368472ba601c147f25791e62cde2e49f",
+      "hash": "0eafac89b2ad927763d59d18d4473532396e1303",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GiantZombie (specialmobs_giantzombie).json",
-      "hash": "25a55620c7a499e5b44d0be5f6cc74bfb4652277",
+      "hash": "e08461b724302d02fbba65d8991d7ce74114495a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/goldenChicken (randomthings_goldenchicken).json",
-      "hash": "423c2a81e48295c9c9978b46f060a19775eb72b9",
+      "hash": "9bdc89887cd191578e51448cad64cdc129eb7343",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Golem (thaumcraft_golem).json",
-      "hash": "78b51ed4b0d1fa8872fe38d50791cd715c0adad6",
+      "hash": "e71c0282ae47120c60473377b33fd3e41f6b20ea",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GrapeSlime (specialmobs_grapeslime).json",
-      "hash": "fd1fcbe1f37d380fc15be49d244b87494b4ca0dd",
+      "hash": "5b439f72661ca7c9785f06d0ca96b6a4756d3f39",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/GravelCreeper (specialmobs_gravelcreeper).json",
-      "hash": "19d04ee96253dc2dafca9534715543f64821a6ff",
+      "hash": "0cb906f247487bdb03deab95c2a75dcdad0b37d7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Guardian (minecraft_guardian).json",
-      "hash": "ba5b77ddc4288cd7f3bbd2854821fea67c4075a3",
+      "hash": "94fff74f3426a7b0de1c1ac4b165360daec2fd0b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HardenedLavaSlime (specialmobs_hardenedlavaslime).json",
-      "hash": "6949ce51c2cddfe6a225e8becdd03b68ca6930b0",
+      "hash": "3ec35553d87733b977cbcfc05006f95214a053e8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HellfireBlaze (specialmobs_hellfireblaze).json",
-      "hash": "ec3c5d11b6a558f7c3c414bf717d5b43c5b07375",
+      "hash": "3abe2c3eca39f7737edbb048813b69b95292b60d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Horse (minecraft_horse).json",
-      "hash": "91d9e12f985d700a9f919854669dfafc48e22947",
+      "hash": "05831dc9383a162ec18417879a5b7e9bb59b2993",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HungryPigZombie (specialmobs_hungrypigzombie).json",
-      "hash": "28d974fbe6f7451c1c070aaad9cfb8a4fe8ccc9f",
+      "hash": "ea7ea338ab320debeda4ceb1f811ace98d6b0c19",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HungrySpider (specialmobs_hungryspider).json",
-      "hash": "f111ca23a84b76473dd8d5e0b6b5fa4530437345",
+      "hash": "cd81883c94c60e7eb16f37ce49c150c5f8a811f3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HungryZombie (specialmobs_hungryzombie).json",
-      "hash": "1a56f3b2f1e8e296b67dd7c605582f0bd3bbd8ef",
+      "hash": "54c943c627ad2d9ef879609fb1ecb6383bbf3f67",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Husk (minecraft_husk).json",
-      "hash": "e2a4d4c08d813cdd53603ec96648f71400b7c240",
+      "hash": "63a8486510eee52a96238a2a5bdd7b0873e6bbaf",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/HuskZombie (specialmobs_huskzombie).json",
-      "hash": "70a19f270ad282c102d20d25c385497afb292d91",
+      "hash": "825d9d8a1809e65c98921f20fdbe159ad5adadb8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/IcyEnderman (specialmobs_icyenderman).json",
-      "hash": "431e2f325b62407e768168e19cd2d0121bfcf2ed",
+      "hash": "274c4317af663c6a4c85b78154d9dcda23a950b9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/IllusionIllager (minecraft_illusion_illager).json",
-      "hash": "7535d79f193882214cf3c39f958aada412aeecd4",
+      "hash": "78e053878c14db0b2b559454bba31b05f9e9c440",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/InfernoBlaze (specialmobs_infernoblaze).json",
-      "hash": "c8ecdd9732b56b5af5ea9367a1be3ee77a0a0901",
+      "hash": "67d6a36cd97079298f38c61c4311ba1745854869",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/InhabitedZombie (thaumcraft_inhabitedzombie).json",
-      "hash": "dbbb8bdcf44aed45a094136c5e557272e9803902",
+      "hash": "e1c9c3617d8675f2dcc9c237da877015057177b8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/JoltBlaze (specialmobs_joltblaze).json",
-      "hash": "e5cbd08427d40c9d33198c025f65a8cfd74ca77c",
+      "hash": "d701dda3a7e81239e7654ab741bd61e09c9545e9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/JumpingCreeper (specialmobs_jumpingcreeper).json",
-      "hash": "2b1db756db9e5b4724ad826765702ebb8f8e2c23",
+      "hash": "5d9090eab5130436786d4d8fb2ab03641669d9eb",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/KingGhast (specialmobs_kingghast).json",
-      "hash": "36312cb68e5873ec31d8eeb31dae5ddcd7b8577a",
+      "hash": "8fa4c8c9ff2abdcc5c2bb7f68a051ef2973ae678",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/KnightPigZombie (specialmobs_knightpigzombie).json",
-      "hash": "cabf94f48765019940b5cfde8694fb9efbdcf57b",
+      "hash": "4440ee3b154d90ad827772d958f41150ae61ab2a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/KnightSkeleton (specialmobs_knightskeleton).json",
-      "hash": "67ab1331f818c6bea08f250b4738893111fc4b51",
+      "hash": "1dad1bcf4c10a577a743276606c71721e0d032be",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/KnightWitherSkeleton (specialmobs_knightwitherskeleton).json",
-      "hash": "9ca2abc00f7da50d40a986d4c78db59a247b249c",
+      "hash": "ee33dc44b9fd24ee9415b41ec2ffe55e2bde49cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/LavaSlime (minecraft_magma_cube).json",
-      "hash": "c154eca60295f23c57e94c238cecde20893cb90a",
+      "hash": "bdae7fd4d7bc375a143e9bb091df54473f2f6070",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/LemonSlime (specialmobs_lemonslime).json",
-      "hash": "13c5aaffa6a9ee5492c250df6b21e19682e3f6b9",
+      "hash": "ecfcb0c1dbf4330bca9105658fe68fe23f3e9748",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/LightningCreeper (specialmobs_lightningcreeper).json",
-      "hash": "9165cc918e6dde665b517e44b535c34e6353c6fb",
+      "hash": "ec8a86317568048ac5c5103caff6bd5269b16e0e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/LightningEnderman (specialmobs_lightningenderman).json",
-      "hash": "05030d73cfc66f741c363e5079b7f15548242d66",
+      "hash": "80de24ab99c06f4f81a7c287a4b137a161518838",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Llama (minecraft_llama).json",
-      "hash": "568cfc33691ea559df0ddace959a614746a123be",
+      "hash": "0c2aece493f889d1b3025d8ea377d81678b9f7e8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MindSpider (thaumcraft_mindspider).json",
-      "hash": "68c2fe99731dc6e6dfcaea6b719c38b6bba44952",
+      "hash": "db7dd9b03f319fcf8038310d56324f617f4b2f84",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MiniCreeper (specialmobs_minicreeper).json",
-      "hash": "2fe5491a2d21a387a0babfdbd32206f4019148a6",
+      "hash": "e4ed51d90c034d1e23573b48ec431afec0e27699",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MiniEnderman (specialmobs_minienderman).json",
-      "hash": "3e25ca0d62dca89225dd3da953d0bcadc88c4380",
+      "hash": "59dd5a5a2586f92e8b3b329966ab689c42bb42c4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MirageEnderman (specialmobs_mirageenderman).json",
-      "hash": "97f403b70e3313e4cb7aa62f49ae1a41ca29c3c3",
+      "hash": "bc15486951ba7c7d1fac6a6d764b4c1115aafecc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MotherCaveSpider (specialmobs_mothercavespider).json",
-      "hash": "395223ae0c9db9b34d52eecf7b6fc52b957b5a88",
+      "hash": "700df6cc4b7d66b48b623303d499fbe67ef445f7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MotherSpider (specialmobs_motherspider).json",
-      "hash": "3b250978842224a4cc8a53b9f79b500e210b8fce",
+      "hash": "0e2c0ef01b72e5dbbd6af89da1407b461507e2b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Mule (minecraft_mule).json",
-      "hash": "f296451923914dde319214ad94f2fa43422f7d0c",
+      "hash": "3d82379117b5393f0b5a645062fe19efb4130b18",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/MushroomCow (minecraft_mooshroom).json",
-      "hash": "b91557020da995c8dc761785f5910fd2f9fc2932",
+      "hash": "1c96a60da7f749e68c147373d34fd22c85ff7603",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/NinjaSkeleton (specialmobs_ninjaskeleton).json",
-      "hash": "44ef4c59f76cab78aa2170b0afe0f40d2feebd14",
+      "hash": "0ff747df881b68568c4bc61e0e296712d6c98da2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/NinjaWitherSkeleton (specialmobs_ninjawitherskeleton).json",
-      "hash": "2117e7be8ec628a7754d94cebaf9ef2223d38c18",
+      "hash": "826ff7e9c584c6fd2b7daf6b1fadb692cf179428",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/openblocks.luggage (openblocks_luggage).json",
-      "hash": "f8cb5a2d84119143f84691bad7c602d24a769dc6",
+      "hash": "334eb40170b0bbf6e1a27ea2a1e000c2e7fd49ff",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/openblocks.mini_me (openblocks_mini_me).json",
-      "hash": "e44e595f8a75442d77661cf11eeb01a920c720cc",
+      "hash": "c3968d5196ee287453dd62c2f58231bd2f7a1e37",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Ozelot (minecraft_ocelot).json",
-      "hash": "36d94c91df19060ec7808bbb6dcdfbe0745fb6bb",
+      "hash": "eb70c9e12385e1afaec5f97c4caf43895388d279",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PaleSpider (specialmobs_palespider).json",
-      "hash": "d25085771582c284c70ed416f1c15f8bb9d031e3",
+      "hash": "ba8ebc0a445baf616b81190788a1f1379f586d1c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Parrot (minecraft_parrot).json",
-      "hash": "ee82ffc4d7d23d96f3fcee5cbee2bd9f2a740f8d",
+      "hash": "f35c0e92495365a3fccfba62e029ae8e3132b7fd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Pech (thaumcraft_pech).json",
-      "hash": "1380afaf71f1f7afab4650c3dd1aa867dcc76e1d",
+      "hash": "017e896f5120fa48786ad178a1f18f0982785107",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Pig (minecraft_pig).json",
-      "hash": "05e684a294d1ecc0d75efb355d0a8bcb445275a0",
+      "hash": "fe2b14a56edfeb3c0745977542541726b2a8f787",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PigZombie (minecraft_zombie_pigman).json",
-      "hash": "30cd0a26c2d196c8c5c9eb74deef5d86c87d223f",
+      "hash": "3b559d6af5a805d042d7e67891d7a70f7c17fcef",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PlaguePigZombie (specialmobs_plaguepigzombie).json",
-      "hash": "b1b28084feb57b3df216fbd805a0b30bc6194edc",
+      "hash": "132d1950329ff0bf74ffa1124d7a1a7699912909",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PlagueZombie (specialmobs_plaguezombie).json",
-      "hash": "a85c2e1289fb5657121a47319b12c65730d16a97",
+      "hash": "154873a9270b0ea0c752eabd98282f3c641eb8f4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PoisonSilverfish (specialmobs_poisonsilverfish).json",
-      "hash": "803c11b4baa96b39f5dc16f1dc54c4c9c2ef0c76",
+      "hash": "3c23e63a2a8711b2ddd8775d71a7399f32d9f8c3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PoisonSkeleton (specialmobs_poisonskeleton).json",
-      "hash": "e9102822fe5a36aa9f6f8fc6ceb8f086a3cfbd38",
+      "hash": "c61f4da94ca19cf8d83d6b49ed9343ea4dff9354",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PoisonSpider (specialmobs_poisonspider).json",
-      "hash": "880d97903eaa1e4839618e774e4fc5af417afa17",
+      "hash": "ab8d9508de81f01f61ed498034f124f373203252",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/PolarBear (minecraft_polar_bear).json",
-      "hash": "48ff0b1cf185e8844d8882f4352602848c1bda7a",
+      "hash": "e899ddab6b07922c538e44314947e18cba479097",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/QueenGhast (specialmobs_queenghast).json",
-      "hash": "ade5d7c420fa45e03baca15dd7efd840654e53a0",
+      "hash": "b3418f6aa37bc7c41abcdf45be5d0e8d21ed27c4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Rabbit (minecraft_rabbit).json",
-      "hash": "f5dd75ad34f120164c7a02075b8959ef18ebe03d",
+      "hash": "a5e57747d692c1891a6320c6e9b29b533d8c4a15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ShadowsWitch (specialmobs_shadowswitch).json",
-      "hash": "137baf666a46e797f1d99f98e5f02cdc021e2ad7",
+      "hash": "806d3545b9bddcd67a50bb5d35bada60895b6f7c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Sheep (minecraft_sheep).json",
-      "hash": "f768fb5487de0022f87266450ea8e76fcd094393",
+      "hash": "28aa70313196933e200bf68123b9c9ed553e6008",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Shulker (minecraft_shulker).json",
-      "hash": "6de912c6547bd683b1cf7e088681eff4fa4e1344",
+      "hash": "e6a6770bab9bea154419cd2b957aabd67177fe1c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Silverfish (minecraft_silverfish).json",
-      "hash": "c53d33d8045466439a3f7023b20d39178bb430ee",
+      "hash": "92f586d9ffeadc2e3e6219881c6811ea0fb7fe43",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Skeleton (minecraft_skeleton).json",
-      "hash": "a38b6719af7ea5e06e265663b738059e15ef3494",
+      "hash": "c3ec9413936f3c1f64e85cdded621536e2e0cf47",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SkeletonHorse (minecraft_skeleton_horse).json",
-      "hash": "6c1e4b102d819c3445028e0c3b7357d4ee63dc04",
+      "hash": "22596da53c0f0d9675e5c24757f3b185f9eedc54",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Slime (minecraft_slime).json",
-      "hash": "b730b3fbf438aa548b707d06ce4fca14cdaafce2",
+      "hash": "35c1e771e7d6310fc3f977c4f8c93c983d0d5dde",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SniperSkeleton (specialmobs_sniperskeleton).json",
-      "hash": "116dc0f77824db054319ce1a3fd683e649d448ee",
+      "hash": "7d9df2c17947d8fdc6d630499cd5b22a7e8f87c7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SniperWitherSkeleton (specialmobs_sniperwitherskeleton).json",
-      "hash": "b32661682764879f0e6b746524de15a154b7cf7f",
+      "hash": "c7dfb1f7ee1fae91d599b9ea30458d7781abb3ac",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SnowMan (minecraft_snowman).json",
-      "hash": "9cb68b3defaf77b699bfc883fd515173a77b71da",
+      "hash": "3cca49ef8f5c292c53a808426b598d3f388b4fae",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialBlaze (specialmobs_specialblaze).json",
-      "hash": "cf08275c96c8343d6ad1b81653d9b262999deccc",
+      "hash": "7decdc0354131a34bc910e8ba38af3549b379ce9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialCaveSpider (specialmobs_specialcavespider).json",
-      "hash": "d72ac6b9bbce8ff1ab9912bb09cecebaa07a1e8a",
+      "hash": "3916cf9073fb4a205f44fbd54d6cf2f9a1a8b427",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialCreeper (specialmobs_specialcreeper).json",
-      "hash": "a05420aa803a8c7ce4cf5e268f67414f75f58055",
+      "hash": "e486fc5665ba271bb0dcfc14888d83d755aa0096",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialEnderman (specialmobs_specialenderman).json",
-      "hash": "8305b97e9ab8b538dc44f36efed7af98c0935efa",
+      "hash": "55de0d647dbf6fac10e72c8dead8381a56459931",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialGhast (specialmobs_specialghast).json",
-      "hash": "45169d7b1f0f56a60bbe24af0253b77d9bfa7372",
+      "hash": "e1a8c882fec2dc6f4c6560969cb43745c31646f5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialLavaSlime (specialmobs_speciallavaslime).json",
-      "hash": "92c1af7c39ea7170b3d4df4d708c94d31cbe04e3",
+      "hash": "31fd2febca288022b7bd62fada09b4ee41ea8cde",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialPigZombie (specialmobs_specialpigzombie).json",
-      "hash": "4c3acded406c2b198b29d02011addfcdb12f1fa7",
+      "hash": "9705ac6c1a382bd970a0ff1c926279e2cf3a60ad",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialSilverfish (specialmobs_specialsilverfish).json",
-      "hash": "267f3808b358aa537a9d866da593c3a296f1259d",
+      "hash": "46812058259061e3dfb5bd8fed777dbe1ea97b1c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialSkeleton (specialmobs_specialskeleton).json",
-      "hash": "ac429f4651faddb8fa887c1a5b4477185e20923a",
+      "hash": "162f7667a2f5630706d54600cc0985c9a93eb056",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialSlime (specialmobs_specialslime).json",
-      "hash": "986773d860afc4a2e8d63dc95d1cc041f483bf80",
+      "hash": "5e140a49afbea2f5a9da9493315fcf63b6c17fff",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialSpider (specialmobs_specialspider).json",
-      "hash": "3832a4268426e9f0ff892afeb416761151f71597",
+      "hash": "570c00ed14690ac296922d048249c7e3f90bf86b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialWitch (specialmobs_specialwitch).json",
-      "hash": "c8047495d0836ded3447f739641e980cc92ecc80",
+      "hash": "d1f4ab9a3d9d87c4f12faba6dccb641103476253",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialWitherSkeleton (specialmobs_specialwitherskeleton).json",
-      "hash": "6ed82961ee7607758bdc387fb802c762bb4f3852",
+      "hash": "a262a795c8add96b37236cae31c043255dd3ef8f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpecialZombie (specialmobs_specialzombie).json",
-      "hash": "751fd74093ae83ad4d65a691962ca60e01bd758d",
+      "hash": "51dadd8a145112669837eb05b66cfe4bd649328f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Spellbat (thaumcraft_spellbat).json",
-      "hash": "9f1574bfd76654362f666209a694ad390a789f7c",
+      "hash": "f7ba04c2877a2cb9b49b74031fbd32a8c76b1bc5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Spider (minecraft_spider).json",
-      "hash": "63c034f3e6a9bacc2c429e4677ac4a1327e3700d",
+      "hash": "7867be0796a8199d83497b0fc0b8356d06dfa90a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/spirit (randomthings_spirit).json",
-      "hash": "2ca02c190ee6644c0502aeb2c9a351be68f4d178",
+      "hash": "bdd72520bc1cd62e44d6c6031f869a3f9544c028",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpitfireSkeleton (specialmobs_spitfireskeleton).json",
-      "hash": "8ed984dca75841fe0b7688efbf8426d1e0c0671f",
+      "hash": "61188363dd7619d08e9134d90eb7437b9d407e57",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SpitfireWitherSkeleton (specialmobs_spitfirewitherskeleton).json",
-      "hash": "450fe459f16fcb1c6321ce32e6c38e093a7a6e4e",
+      "hash": "4fe92467f7db6bff4e1d1ced750abf63b316082e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/SplittingCreeper (specialmobs_splittingcreeper).json",
-      "hash": "e746f201daf21ae12da2d95409bf85e45a17e077",
+      "hash": "952d0c889081c313f6c91f545b7f575aa24817b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Squid (minecraft_squid).json",
-      "hash": "955df35e0efbcec764d9b76d9ceca7feca46d477",
+      "hash": "e20988e6c21fc9520947b6a2db84a8515bd7e330",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/StickyLavaSlime (specialmobs_stickylavaslime).json",
-      "hash": "ab91b5442a7c8f6132aa97f7b7a6c5d011314dbe",
+      "hash": "eda9a1b8f26219dead4c976072b8a1e898f91f5a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/StrawberrySlime (specialmobs_strawberryslime).json",
-      "hash": "d38af15c0c33a1c6b15edb5a296cf61145d95bc3",
+      "hash": "a49edd23a90f32d8ef78679f8327858332c8a600",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Stray (minecraft_stray).json",
-      "hash": "4325aef36c87de538d64c18d1f96009a2eb2827c",
+      "hash": "fe95f6972faab5682248bb128dc9d2c06012c919",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/StraySkeleton (specialmobs_strayskeleton).json",
-      "hash": "79e666ffbde61420dec742e519860d58a2432404",
+      "hash": "92f6b2fc78ad5c98b4f3209d23e30a9ce936cec7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Taintacle (thaumcraft_taintacle).json",
-      "hash": "1b125900ef09f31b79a0706ab82fce8e0647849d",
+      "hash": "61b827b7af725dff03bd62861ce45b54c4cdfb5a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintacleGiant (thaumcraft_taintaclegiant).json",
-      "hash": "e75a2546a5ec4dbd3edcf8c365085d2d6e94dd1b",
+      "hash": "690652780337338b0b583e4f9cc11828704fb81b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintacleTiny (thaumcraft_taintacletiny).json",
-      "hash": "47ef760356c0c40169ebf456a5d7be1414ffb6c3",
+      "hash": "969b34ae8ef9a7a4f814f1fcafe574c83230d592",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintCrawler (thaumcraft_taintcrawler).json",
-      "hash": "1ff362e2fe7910540d8647344c3e9a5501c26578",
+      "hash": "518943fe42048cd7469312f6b917b724bc42f80a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintSeed (thaumcraft_taintseed).json",
-      "hash": "4086ccdd3cfcb5cb9d3b4b8682b5fdfaab9675f3",
+      "hash": "b2fb0b0851fa7f41cfb6bec4da89129d59447886",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintSeedPrime (thaumcraft_taintseedprime).json",
-      "hash": "d14aa8d7df62223accdbeac838dc7b0bfbe0c81a",
+      "hash": "c2de7c497c2d03bab2c7b51c6d747d727772e452",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TaintSwarm (thaumcraft_taintswarm).json",
-      "hash": "664c95e548294a7531764bd761a4b1dff7fdc617",
+      "hash": "01b501037008523179a7769a10581185780ea509",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/tconstruct.blueslime (tconstruct_blueslime).json",
-      "hash": "96e986e3a78b4eb4e5e5328073c551ae215e291f",
+      "hash": "26821fbbfb690fe5a7c650618923412ba3e077b1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.autocaster (thaumicaugmentation_autocaster).json",
-      "hash": "d28c76dd91bb64ceafd340491f3b41edd856b0cc",
+      "hash": "39b87bbaad91aface8d4c3cc6cfff18e1dd7cada",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.autocaster_eldritch (thaumicaugmentation_autocaster_eldritch).json",
-      "hash": "14c933cbc96549fd33f5240d503161644070a580",
+      "hash": "46748ad7f7690dc22740eab103e073e0b835fe1b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.celestial_observer (thaumicaugmentation_celestial_observer).json",
-      "hash": "e5562cd1e736069808b360ce5794497117c11b14",
+      "hash": "7f972856c3d0919fb05672cd7fd68974219d08a4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.eldritch_golem (thaumicaugmentation_eldritch_golem).json",
-      "hash": "e86daee834038ad33fdaa3a6194d61eab6b46b3b",
+      "hash": "224650a55c5cff470edfc79529f7e5066e59903d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.eldritch_guardian (thaumicaugmentation_eldritch_guardian).json",
-      "hash": "4106382581944e3e1975bb1d6075bf582059d946",
+      "hash": "c763ad92aff2b95250b2b413ff7d61335e28a841",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.eldritch_warden (thaumicaugmentation_eldritch_warden).json",
-      "hash": "9f959b683bc3840a36668cf4f5f3f3ffa688d81a",
+      "hash": "40d08d5ed9821d1d104c2038766bb3afc8f6c560",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/thaumicaugmentation.primal_wisp (thaumicaugmentation_primal_wisp).json",
-      "hash": "cde90f3d148b7ecebed07e36926c30b3baaaf0a6",
+      "hash": "daa78a9dd2baacf28bf0cbe0d92c9295e2ea382a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ThaumSlime (thaumcraft_thaumslime).json",
-      "hash": "8b017eddc746860f153efa946df7f8b3247f833a",
+      "hash": "2bd8d1d17caa91782149ab7a74e37b3c2a5f98e2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ThiefEnderman (specialmobs_thiefenderman).json",
-      "hash": "30507c17859a6472ca6e079fa1bb41f7a52d7278",
+      "hash": "69e9780d12517013279082d3a01f1f331dabf4c6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ToughSilverfish (specialmobs_toughsilverfish).json",
-      "hash": "311d8249a08357a97e2246e3184a8e18553d9120",
+      "hash": "57cae5eaa6fb48dfd30a86c1abff3a95deb58379",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TurretAdvanced (thaumcraft_turretadvanced).json",
-      "hash": "e6383d797398b233b1307295095a4e65723da4ab",
+      "hash": "5c1e9a5d118838803f9a967e381bec62de049db0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/TurretBasic (thaumcraft_turretbasic).json",
-      "hash": "9ef498161a75a78cdcfe253c2e75c24f62985790",
+      "hash": "13b8b3a8dedf8dca7c3f968aab10cefde5c02808",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.adherent (twilightforest_adherent).json",
-      "hash": "ad78a173b0fd069369d0d2b9edc6493c0f6cdc9a",
+      "hash": "a4ce45b855eb941a9b82fec88a85a6c4dfb10026",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.armored_giant (twilightforest_armored_giant).json",
-      "hash": "ccfbd9dcc9ef3d924843139801db1be40a060c74",
+      "hash": "4ac74fc9fd232bf9553bb1ec2bb52b5e789ed2ef",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.bighorn_sheep (twilightforest_bighorn_sheep).json",
-      "hash": "9a2667f9934ef0f07e5283c6ac07858ebfd72144",
+      "hash": "5d25d02182fcea6d6e3e50c6ba0774f35e79c04c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.blockchain_goblin (twilightforest_blockchain_goblin).json",
-      "hash": "86b393a6c6da6fb1e59e697f40f428f61364e593",
+      "hash": "3208115f0288feee8de14fdf0417704bb52ab4e9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.boggard (twilightforest_boggard).json",
-      "hash": "20bb332948c715cbe7f38ffae714ecbd790b2d3b",
+      "hash": "4fda7af31075efc79ee2d29030a6c25e54bcab52",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.bunny (twilightforest_bunny).json",
-      "hash": "da0a67f9a9376ac552aa92b2c126904bf2a8a1f7",
+      "hash": "f7c5250b8be2ef998c5a54e212dd5893e10c4b91",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.castle_guardian (twilightforest_castle_guardian).json",
-      "hash": "679bdc9e1f7ce170b50c2ee075e3f57d5799ef73",
+      "hash": "b4af419f292d6ea5e7055cc8f20995c6afcf5135",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.death_tome (twilightforest_death_tome).json",
-      "hash": "895f20a0349f973b57b43995d03168bf1890280d",
+      "hash": "542c8583b49107c149e9ff2939e8cdd115be7988",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.deer (twilightforest_deer).json",
-      "hash": "295011793918807f8ea5130f579320c568ab4d71",
+      "hash": "716814cab1f36669392b374c87a60ef0e3928d55",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.firefly (twilightforest_firefly).json",
-      "hash": "aa1dd98fa67c28cc2126de2ebb8e87f5112a7dba",
+      "hash": "2499b51cb74b31e5bf1c0ef1531c37c30d4eb854",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.fire_beetle (twilightforest_fire_beetle).json",
-      "hash": "27a3ec50770371596be0ea57a6cf5fc606ab67e6",
+      "hash": "8e78fc758c5b06912c0d808084137522c8abed28",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.giant_miner (twilightforest_giant_miner).json",
-      "hash": "903e2af33d01cb54f79edbca5b557a2f733ff550",
+      "hash": "56e64412c270a3fe8151f19c10331d0d6fe690bd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.goblin_knight_lower (twilightforest_goblin_knight_lower).json",
-      "hash": "f1516748d2d23ba7400ad11b8297aed1cf8667ea",
+      "hash": "2049e40587a8826013e6c956f4cfc8fb5471b0e6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.goblin_knight_upper (twilightforest_goblin_knight_upper).json",
-      "hash": "7c7033cdc5050945f751bdf4d237c8c7f242cc59",
+      "hash": "9d470bb86e51534a22b437ee3eb96ed4a32754a6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.harbinger_cube (twilightforest_harbinger_cube).json",
-      "hash": "8b7d52d239579d21ffba540e60a241fc27036170",
+      "hash": "109c0987e7ce9c2841096ec15099bffa68145516",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.hedge_spider (twilightforest_hedge_spider).json",
-      "hash": "fcb44d05506309c1d529ffabcbf5744185ac8788",
+      "hash": "c5c818bb8f08fb5da4e90b550d3df840c224c263",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.helmet_crab (twilightforest_helmet_crab).json",
-      "hash": "a87624a7d1783480fb33f3815865c8a7f8ce9e4c",
+      "hash": "dcc4b900463c8ea1384fa33475095624224745f9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.hostile_wolf (twilightforest_hostile_wolf).json",
-      "hash": "d0bc29475e9adf53b4b0c3375e46d89ea8050ab5",
+      "hash": "3ed3beb1fa8eb87b75ffc4e79274c1cf6258eb5d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.hydra (twilightforest_hydra).json",
-      "hash": "5d127997807183e8db4e54e6b5ca2d563ed6892b",
+      "hash": "fc5a141a1434882069e2d5460b77ac9eb0a03f14",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.hydra_head (twilightforest_hydra_head).json",
-      "hash": "3408b486ef1b9f830e33778a4e91c21f097a5932",
+      "hash": "9f447424631e9d12a7a961e93466f6080ff12361",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.ice_crystal (twilightforest_ice_crystal).json",
-      "hash": "a8196058919bcac6e24ce1f2fdbc25d606846e94",
+      "hash": "5e91b7044baeac86b76b2464644d9580867ffa08",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.king_spider (twilightforest_king_spider).json",
-      "hash": "8fd29e2dba62623ce6c73bf2c1b69a40db5c9fc7",
+      "hash": "2cf77c7159fdec6ade15f90e56b92d17b36538cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.knight_phantom (twilightforest_knight_phantom).json",
-      "hash": "6457c8d01133c1eb027910bab18a5e4693d5130e",
+      "hash": "ed8cf80a1e0b5a69809640d17713d6f67ae5c3ff",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.kobold (twilightforest_kobold).json",
-      "hash": "7490abea911c62f2ac1a8a277d0f8e711dc3d428",
+      "hash": "b5b0cdcc2b4cea601fbee1b1244dabc15b2e6738",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.lich (twilightforest_lich).json",
-      "hash": "ea8c607305abdf39b25ae671bb06f35659b4159f",
+      "hash": "04ceb73afa536e5367da035071ac65e38ee51654",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.lich_minion (twilightforest_lich_minion).json",
-      "hash": "40325f863c796ee2afbaa75d8a113a359fc3b299",
+      "hash": "0e64affa6ba2e49ea63206e9e8bac1ba9341eba7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.loyal_zombie (twilightforest_loyal_zombie).json",
-      "hash": "ec89db56ab5ee5a08f5c0c6f58872868f05355f2",
+      "hash": "4a59d340364ece11486703a3353e09f09dfb5cf0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.maze_slime (twilightforest_maze_slime).json",
-      "hash": "f6f5069a4308ae9fe56c789df9f08e17417751f9",
+      "hash": "8e7aa7a0920e21a8aa48a892315231535f685840",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.mini_ghast (twilightforest_mini_ghast).json",
-      "hash": "b1b645a75af34cf853941bfde509bd9822caad11",
+      "hash": "46cbfbf2040f3c11695fa474d8807ec1954d6efc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.minoshroom (twilightforest_minoshroom).json",
-      "hash": "f26c198b615a5dadc273d34d5eb3db739e3cb57a",
+      "hash": "5c798a0db09c1cbdd420419592207126f1a66394",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.minotaur (twilightforest_minotaur).json",
-      "hash": "a8c1bbb2f4bb40986063da3156d042d59a2d036d",
+      "hash": "c480c84574f7118f08dc2abc7bc5c900f0e921c5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.mist_wolf (twilightforest_mist_wolf).json",
-      "hash": "003041b42e7922d1bd8e228d447f3d39ff22f969",
+      "hash": "c17e1dae7c33b5de54da71b8aba54f5077dcd020",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.mosquito_swarm (twilightforest_mosquito_swarm).json",
-      "hash": "323b38acaa4edf9b4cecac33daec87da5045cecb",
+      "hash": "bb83fed94bd1865fdc41e2db56198d040c3935db",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.naga (twilightforest_naga).json",
-      "hash": "2d789d9c0b60663c5362664a8d9ac84a40a39b5c",
+      "hash": "b3caf3d76017a37d5dd9ce1f6d7460e02fdc9a87",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.penguin (twilightforest_penguin).json",
-      "hash": "3d038e2e5d89773c0f3700dc4ed4542fcce0d42f",
+      "hash": "3b45325e247fc2f0a37586694318fd374fc2d10e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.pinch_beetle (twilightforest_pinch_beetle).json",
-      "hash": "3ef6d882bac67a90ad04c88d7fa634791a453bfc",
+      "hash": "b828afe52ba08607e6634c085d22a35d9fd9192c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.quest_ram (twilightforest_quest_ram).json",
-      "hash": "7f57dca85bcd8d589a5ca8bb51ea30b26eeee1e0",
+      "hash": "0e588e7d611d4df6f6d64622075d72dc05ff764d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.raven (twilightforest_raven).json",
-      "hash": "1d7202aa6672f7b433925b2d7450fed07835c01b",
+      "hash": "878f660e4cab023652103c39157fd49a0097a218",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.redcap (twilightforest_redcap).json",
-      "hash": "404bd2c5272a5b2d9e2d456fbed776035c9a62c2",
+      "hash": "afbc587cb66b636f8217e90965b64bf77b237f7d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.redcap_sapper (twilightforest_redcap_sapper).json",
-      "hash": "68e92af56705d951adfcc010c58aaba848f648c0",
+      "hash": "5cd296daabcb76b88969f7d8ff0eeb32e8fcdf6f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.rising_zombie (twilightforest_rising_zombie).json",
-      "hash": "2933a8e41293e0f19e5a6d93974b07f6ce180ce4",
+      "hash": "f4a95d6f668116c2358d0dea1a9473444149e5f4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.roving_cube (twilightforest_roving_cube).json",
-      "hash": "b614f67305b3abc0ea751afec32797d144923e3b",
+      "hash": "32881a2c6cceff3196825f874cf461aca8cf6cf1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.skeleton_druid (twilightforest_skeleton_druid).json",
-      "hash": "08696b22fc0c9ff80d908e923db4cbd25bd0708f",
+      "hash": "a72b34240e2449e891a24aa487685daab37ce2f3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.slime_beetle (twilightforest_slime_beetle).json",
-      "hash": "1487cd19660b16fa42b533be16ee75a93c6d3681",
+      "hash": "3c5ce25fbedc3bb6c92c6d210b0599596cda1783",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.snow_guardian (twilightforest_snow_guardian).json",
-      "hash": "c195b5f11d78ae8eb4e16a253db7773017ac6009",
+      "hash": "84cdd5519e92bb266ccb4fbb07e0bc3b148b96d7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.snow_queen (twilightforest_snow_queen).json",
-      "hash": "a018d0db3ce23fc4d61c78f184daf5ac7a45f628",
+      "hash": "705f97a362341ea83311b9acd7ab47ebcfef4859",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.squirrel (twilightforest_squirrel).json",
-      "hash": "44d981d6598372d8bf75db4a31da096c3f9a9e7c",
+      "hash": "6aec64e02725bf2d0916fecf6b3a5eab240f86e0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.stable_ice_core (twilightforest_stable_ice_core).json",
-      "hash": "aae8b03e730f495947b3dc451dbe8baf1c4d032d",
+      "hash": "702334d577d6fab6ca91e991824bd9883d068a46",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.swarm_spider (twilightforest_swarm_spider).json",
-      "hash": "da19b3d544bf90070436a94a6bd2249d54df9ee7",
+      "hash": "40b73dcc819504760a7badd01c670908434f68e5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.tiny_bird (twilightforest_tiny_bird).json",
-      "hash": "fb9d16d75318afde487df702e3a53f6e9393ee41",
+      "hash": "30701e8893f392d25b8f48e0b92c907385ce6cd8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.tower_broodling (twilightforest_tower_broodling).json",
-      "hash": "f228bb03b67b0d9eea542e4b6aec43dff94aba04",
+      "hash": "ed809112da0d99a8454eb3af647ee114c9643818",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.tower_ghast (twilightforest_tower_ghast).json",
-      "hash": "989e5837d9ab247153ed24987c3cdb7ed933bc18",
+      "hash": "4333af525bd20a29b9cc1d75e240dd7072e1ae24",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.tower_golem (twilightforest_tower_golem).json",
-      "hash": "53e98cd64e8e56259fcf99dd932239ebda042dd2",
+      "hash": "889eb7891b920ba3fe00422bd0ea16c5fde1a9bb",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.tower_termite (twilightforest_tower_termite).json",
-      "hash": "9009968174a389f783e73cbb9f460532f3ef26c3",
+      "hash": "2bf312b1bc550dff78132e47c1174fa365e6b8d4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.troll (twilightforest_troll).json",
-      "hash": "6d945c8a39cc47c3cac23f7c663ee13819b7f063",
+      "hash": "8751157d8d7b5ff09fe19faf941396666d861e16",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.unstable_ice_core (twilightforest_unstable_ice_core).json",
-      "hash": "bca35ba9c671dca7675246cbf5615013c6f2985f",
+      "hash": "d9bf216568b31b826793aba5dc6ad5eee42be5a8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.ur_ghast (twilightforest_ur_ghast).json",
-      "hash": "0a9c47479dceb7b01e1ef8e138337ff957a082fe",
+      "hash": "b36549fbd1555226f1c300dc59ff2dec37b7ed42",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.wild_boar (twilightforest_wild_boar).json",
-      "hash": "bd39d814844ee367e820773202784b770eb364c8",
+      "hash": "280a3d4f4157d0ef50f4853897a60c60dab35680",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.winter_wolf (twilightforest_winter_wolf).json",
-      "hash": "0b89e9698f29a73471caecea6c37c79318a95ecd",
+      "hash": "41557dfe98dff7b87930e3860890480667a42530",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.wraith (twilightforest_wraith).json",
-      "hash": "2f8bc8a13edf30b3c09e2043e838cd489cb49d76",
+      "hash": "d7f0a9449396733859d135b1e7cdcea7aa492ec9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.yeti (twilightforest_yeti).json",
-      "hash": "dae89f6127b25e1388f708d50e7ae8741e7bee3a",
+      "hash": "2cd4425f77c28fe7ec1f7e77f5763877fbc69de6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/twilightforest.yeti_alpha (twilightforest_yeti_alpha).json",
-      "hash": "faba810e3dace7bd732c9d08699e3f3e0ec4b74b",
+      "hash": "4e07ea416618a0624d2a068ed892cc9c872bc21c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/UndeadWitch (specialmobs_undeadwitch).json",
-      "hash": "d9d82c7511ae7fef3d1349ee2faf59fe4e1324e3",
+      "hash": "5d00c38f451e055baff202c3180b25ac98d45885",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/UnholyGhast (specialmobs_unholyghast).json",
-      "hash": "c42c67ff2e6fe4117e70ae4181aa94466a14f274",
+      "hash": "8eaea359a65b0d83449e08b59518491d792640da",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/VampirePigZombie (specialmobs_vampirepigzombie).json",
-      "hash": "848180ded4dc83ecbdceba655594ce3e32786cfb",
+      "hash": "618f78c4aff3f58b3e7a6b1172e7e3c540128cdd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Vex (minecraft_vex).json",
-      "hash": "a5c5e2a9ed718bcbc9e2a8cd71666f515be97e09",
+      "hash": "15fa5f164b26e06fdb4440925ba7e9705179124b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Villager (minecraft_villager).json",
-      "hash": "7343d4272d37da98291c1cb6212a3e270c6a5467",
+      "hash": "59843351093e0e71a7a9e3eb2ead64d7e9cfda63",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/VillagerGolem (minecraft_villager_golem).json",
-      "hash": "5d6e4c90cd981c72d9ab9b596ea4c77f8e7d1781",
+      "hash": "355d89b390b20628bd82587d5acbf5f23666df76",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/VindicationIllager (minecraft_vindication_illager).json",
-      "hash": "027edb1aa8e60fc43f7cf313e9003ca090870075",
+      "hash": "0516533e136d52b08a927838b65f962267f4b07a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/VolatileLavaSlime (specialmobs_volatilelavaslime).json",
-      "hash": "b90352ed94f5067b1e5d1c80869635450d108940",
+      "hash": "30a5a4d718a8d2595c8d3910e45c36c9d45cbb45",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/wasp (biomesoplenty_wasp).json",
-      "hash": "18681f84c8dc3d91ba7de6cc9a58b547e12f08f1",
+      "hash": "adfe920dee3122952fb0c984cf400cafb74606f4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WatermelonSlime (specialmobs_watermelonslime).json",
-      "hash": "227c31523d944a515193faf7233a0d9c73739fb4",
+      "hash": "769faac9f6e499e24a839572c415926f557c09da",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WebCaveSpider (specialmobs_webcavespider).json",
-      "hash": "0b1f8eb096fd3d010985f393d0572b8b69f476c7",
+      "hash": "72528d0977fe6446eac6bcddfc10699b380e929e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WebSpider (specialmobs_webspider).json",
-      "hash": "0421707148035e23cf5a437b5e3e7a51c2af4127",
+      "hash": "4854c4764de55d455fb695c8d426b5536fcf1956",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WildfireBlaze (specialmobs_wildfireblaze).json",
-      "hash": "27cca1b4e2c7b2ddd8ba4eda4ed531484f2d82e8",
+      "hash": "58f0edcc3949c0abafd00d68e80a333564b5ec0e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WildsWitch (specialmobs_wildswitch).json",
-      "hash": "2ba9d1bab9b2a05c132bae32f8a4186239670c88",
+      "hash": "56d2d1b2ee567dd0907649a3279955fd627023df",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WindWitch (specialmobs_windwitch).json",
-      "hash": "fd01eb41be1171194f99ad6ec20da1eaaa65b7a9",
+      "hash": "607ecea219de79853999dc29957e9d7c03fb0a1e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Wisp (thaumcraft_wisp).json",
-      "hash": "8fb01072d738cff0f27c5035cf190538075fd977",
+      "hash": "02e231db12d09bdc9ac6748bd56bba6572d4026d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Witch (minecraft_witch).json",
-      "hash": "35a3e941cdc2e9937645fa02e9d45e877ca78078",
+      "hash": "4aaa3c0900be3ab31ca07f982832058b676cd3cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WitchCaveSpider (specialmobs_witchcavespider).json",
-      "hash": "0e44e32f3e5fe13952a0f8b0fe3daecf57df99a0",
+      "hash": "8ef41eb9be9ac4fa3131654ba6ca70d849153cb9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WitchSpider (specialmobs_witchspider).json",
-      "hash": "8afcc9603e813bb92ea665657c2657ded735a2bd",
+      "hash": "b0e14608dfcc0fdb049ed4f71a66f31d567402bc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WitherBoss (minecraft_wither).json",
-      "hash": "455d0afa0e769f6b05d384c91c5d6bdbeafe7365",
+      "hash": "a193a0eb0cb1ec134b5367d3d1927284606c19c7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/WitherSkeleton (minecraft_wither_skeleton).json",
-      "hash": "b29b9b9fb1fc091f4e1462571bc69873d98d65f1",
+      "hash": "f448333e74ef4739d0948a3b1a69f2d0677b0a9d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Wolf (minecraft_wolf).json",
-      "hash": "8e6599d0f577d76178d34ee9f3a7ec59739a5cf9",
+      "hash": "839aeacd646506b8e51988dae7ecc08a91b03f2c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/Zombie (minecraft_zombie).json",
-      "hash": "ab04e43268c1b6b08af1ee967b216e7cd9645f13",
+      "hash": "7c94e8fc1392487f93285e90835d6e997f728c8c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ZombieHorse (minecraft_zombie_horse).json",
-      "hash": "75b6dab2e119c5d6e9c7d0fe007967fb02001cdd",
+      "hash": "8dedde3d5bb448476fe5fa1274b614306dc6cfa9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/output/entity/ZombieVillager (minecraft_zombie_villager).json",
-      "hash": "bf397db0c108987e4b199e72c3458e3786103345",
+      "hash": "3e81b9fd4f987dac63faa18ee60693306a37da27",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/BiomeTweaker/scripts/rtg.cfg",
-      "hash": "1232e583f997e1dff95abf00588b3aab9eed027c",
+      "hash": "76523df0f49316f0ba9a25f69ddbc5da0cf93f6e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/bloodarsenal/bloodarsenal.cfg",
-      "hash": "583a846ffc2b0408000d3faabf98a75947f69fb9",
+      "hash": "83cd889ed04a6016c25614cdb95408e1807a1af0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/bloodmagic/bloodmagic.cfg",
-      "hash": "fab7501dbc303ed8ce01f40feda182f046783530",
+      "hash": "dc8a05b6d915441eb8d74d4c8e4bd4f25cdb9818",
       "force": true,
       "type": "addon"
     },
@@ -3437,25 +3437,25 @@
     },
     {
       "path": "config/bloodmagic/rituals.cfg",
-      "hash": "da7234c83424ccf4eef498cfbe44eccc4bd6f662",
+      "hash": "ad762a4ffa3d8940daae840ae06fb71f7520b4b3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/botania.cfg",
-      "hash": "37e03943d8111502acf3045d8d88ff353d42f485",
+      "hash": "f0f78fa961dad8e6e9d340b77869a5e0423c7c47",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/botaniatweaks.cfg",
-      "hash": "39566c3c98f596683b06439780d9a33eeddfa1e5",
+      "hash": "5d7daa76e3195f6e7b523fc91170d0301ec6f797",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/bqtweaker.cfg",
-      "hash": "5b0b0dabb14c1a9e85084c5d19ce4b45cd18006e",
+      "hash": "6f5afc3baebe7be11db5b473c759d5464a654590",
       "force": true,
       "type": "addon"
     },
@@ -3473,13 +3473,13 @@
     },
     {
       "path": "config/champions.cfg",
-      "hash": "180019e593bad1cadddc6bc344425ef5d86303b8",
+      "hash": "830195d79a0163855b3b982dfc9a30ec8592a592",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/codechicken/supporters.json",
-      "hash": "c55489ad8381e7f2d023ef1b926ab87b2a7e1f25",
+      "hash": "a4efdbea1400c3e9ba9bb24b1132b86a40066118",
       "force": true,
       "type": "addon"
     },
@@ -3491,85 +3491,85 @@
     },
     {
       "path": "config/codechickenlib.cfg",
-      "hash": "0f8d9d5c583e9a8262830117a558cb2728d86c48",
+      "hash": "5462676a78b8d1e5faccfbddaff2b30646aa5878",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/cookingforblockheads.cfg",
-      "hash": "b52bf1516a9fc06a27ac798fda948d0f4b0c5368",
+      "hash": "bcac758cdf073091007c388c9c6524e6b05b4548",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/findme.cfg",
-      "hash": "d4f6b843653727f946c6e551be1e4040d10e9c38",
+      "hash": "c6467d16e457eb2cd2e732c8b5a958f30efb8a8a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/foamfix.cfg",
-      "hash": "8c0807cd779dbc6ca90b8c4f0465a994b5f0652d",
+      "hash": "773147d07673169bef4664e55f597774258b7364",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/forge.cfg",
-      "hash": "204e9705dc79d04223cef171d3b772d2c4445c78",
+      "hash": "9cb985e6032ca628956156eed52bd8ae3d03e723",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/forgeChunkLoading.cfg",
-      "hash": "78c6c353cacc90f109b93d89553f0015170a49f0",
+      "hash": "adee000a60152051a6b48b0f2efaf66bc03c8d65",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/ftblib.cfg",
-      "hash": "dd191372de28bae507fd8dab862a67468d486d85",
+      "hash": "380361b4009d79ca80998fa70f4724527f4a9f45",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/ftbutilities.cfg",
-      "hash": "3e9a67819a5752e6e1a6fb0bb31d8bb50536ec75",
+      "hash": "3a667912729d85a2e6bdab09936e52ef6dd5d338",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Galacticraft/chunkloading.conf",
-      "hash": "5fa7d20c6d695d3e2424ab7c3a3a370d74b216e1",
+      "hash": "3343adc6928409185869f6b741971dad13eb8f6e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Galacticraft/core.conf",
-      "hash": "19990d698dc87ba035feca6071e71327a42ffe9e",
+      "hash": "333fcb88dd074004b593cc77a6838c5a62fdea11",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Galacticraft/miccore.conf",
-      "hash": "a6405dd312ed8432525c4f7320367722693143a9",
+      "hash": "255a637a091ef63d97f74f02a238e7addcf6fc32",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Galacticraft/planets.conf",
-      "hash": "8b5bb023c992165efb467f2a27fc7b985dd10ad2",
+      "hash": "1f5997f3be934b4a1684c9edebfdce21b900ff14",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Galacticraft/power-GC3.conf",
-      "hash": "aee40ec7820db4e9e1dd63b2fe3c2d52241255df",
+      "hash": "e2242efc2428f46524970a3e2b46d018472bfa2c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/gravestone.cfg",
-      "hash": "54ab3e1330df6ebe4b5744cf543e734258fabf48",
+      "hash": "99eb3ee772926fcc35fa96d6fd5ac59977433ce3",
       "force": true,
       "type": "addon"
     },
@@ -4451,61 +4451,61 @@
     },
     {
       "path": "config/gregtech.cfg",
-      "hash": "c3e0e11002afd837e065ee35be4e3399df182966",
+      "hash": "3c454658e8a543ce771824c744fda05faea8eef2",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Guide-API/Guide-API.cfg",
-      "hash": "3996caf4d32b4634b48625d87f97f4ef1a0dbc51",
+      "hash": "ff1bcb1f115e26c8c88ef7152dacb09d71e6776d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/hardcoredarkness.cfg",
-      "hash": "357741c8b751cadf6779981cd7943a7a746ec647",
+      "hash": "1803c1296b5b5a69569b84f8181a110b1c08a1ab",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/harvestcraft.cfg",
-      "hash": "42b45eee08d7d426ca5fb7fd62ac60f7d8159cfb",
+      "hash": "50269dcc2dd977cd7af97e423af54c604afdc932",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/harvestcraft_fruittree.cfg",
-      "hash": "c8de8335486fdd526d03031da7e23efaf14f43b8",
+      "hash": "90adf8226b84d496042983ddd4523a92bc870c31",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/HungerOverhaul/blankslate.cfg",
-      "hash": "527049d5bf3772e757b8b6bbce1219147efdc63e",
+      "hash": "f443b926c1e79039435bb19a06ca4ce6e4cfeb00",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/HungerOverhaul/default.cfg",
-      "hash": "1db2f8f0121b5664728fb8b2c79416c4e09d04bf",
+      "hash": "a071e0b77890de351f4c0dc3d4d798375720853d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/HungerOverhaul/HungerOverhaul.cfg",
-      "hash": "fb3882914ac9414bf047e9b736fa9222cf752500",
+      "hash": "163b4a17886faa8982827cfaae34d2aafe5d9740",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/infernalmobs.cfg",
-      "hash": "f1e349836f2294f48970f4844ed31ac4f1366775",
+      "hash": "299d2dcaee7754563d1a247fbea12a833fb0285c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/InvTweaks.cfg",
-      "hash": "b4a46ad92c6f2a37518dcc22e6c29379712e47a8",
+      "hash": "2080d46456d63296dfd85a58e5ce919bb17a7d40",
       "force": true,
       "type": "addon"
     },
@@ -4523,163 +4523,163 @@
     },
     {
       "path": "config/ironchest.cfg",
-      "hash": "e2044fa4d0c44868017d9b017f1399da3a94be6d",
+      "hash": "941a48b0339fa9a6a09b524c565cb1f49dcea8c7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/itemrender.cfg",
-      "hash": "0c86861bf34ba86809b18ec5cea03cff2e79bfe4",
+      "hash": "210c1615b1554ba0965f3853a0a91efef08d6ba4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/jei/itemBlacklist.cfg",
-      "hash": "b7d729875a1a71890f0733c3afba4ba0950583e8",
+      "hash": "272b2d689662eda01576719002001a8ce457cccd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/jei/jei.cfg",
-      "hash": "0ceafcfc178f54bdd3caa33f81d85e500e536b3f",
+      "hash": "090e73942dc843a8878a1fa1145f25aeb5bc9760",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/jei/searchColors.cfg",
-      "hash": "493ef0b6b71936166abb91e909ec4157c227ee9c",
+      "hash": "eb81e1df4ea7e7de3f077ce73b2b8c0575c722cd",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/jei/worldSettings.cfg",
-      "hash": "0f6cbcc0763d4c8165de25c334eca7f9869d3e42",
+      "hash": "70f04553b621d66a6eff84d959f8fc267d618d6f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/journeymap_ModInfo.cfg",
-      "hash": "44716ddf3f2d76c09ffe6279a66ccca0e5acb207",
+      "hash": "8922ebc6e192ab3d3ba0c3d93fc81854aa05afa7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/journeymap_server.cfg",
-      "hash": "a77f42cc8247068729d0d8ed4a4e269c86dbd2ea",
+      "hash": "083841ade246b999276d52f031a9498b81db3730",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/keletupack.cfg",
-      "hash": "25c215cf5ecdc5f331bab4f3db4feee652bf38f6",
+      "hash": "a1b11ca91af7c1cafaeb5d6b9090a36a75eec4b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/lostmagic.cfg",
-      "hash": "d25a14a414ea4b7aebc3678517325cd830fc4bab",
+      "hash": "1f287c2f56fe2fc82448885e0a9ee20815d9afa3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Armours.cfg",
-      "hash": "d5a9e09ea7bd49b8515cf4d61adf1ef0580cb071",
+      "hash": "4f28bb59b750a206a6739e092cabd6984564d289",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Client.cfg",
-      "hash": "988396cb2d2233f0651ed07042c2291b7e6fca50",
+      "hash": "73c5156a070d8db421b048df69163b3f976e392d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Crafting.cfg",
-      "hash": "9b12e9df9f3fdf0eb3ee387c8727d2e8ff427e99",
+      "hash": "156363e69660949d10250f14372306fe15cb62dc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Farming.cfg",
-      "hash": "4db2c830d0e5b3c2651fe58556e4feed4f806f49",
+      "hash": "4ecf86472cb5a4c993f18188e07f89d7967e86a3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Hardcore.cfg",
-      "hash": "b67e20718be6fef2c225d7e3ff9ac3e74dd28ffc",
+      "hash": "355d7302f385f3e354ff9a2624051054de2c0362",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Integration.cfg",
-      "hash": "79d27d40725dc0c33cbb837df0edbee5e5f6aa7e",
+      "hash": "ebaf5e1b5ccb5cf9caadaec3a5298e5ac3b8d503",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Item_Registry.cfg",
-      "hash": "7628d2050d3b73f14c872303574d8392129c1c92",
+      "hash": "2180fb66a823f0b8c0f959873b849292f540e82a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Mobs.cfg",
-      "hash": "86d50128f755915574f23387064e94a4cf5f8eb3",
+      "hash": "217823cb56e0bcdec81482240acda29b5f1285b4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Specials.cfg",
-      "hash": "e7add90db2d5ad51438bb8b22fe9cc9597fabfce",
+      "hash": "fd4ceb0089525c671bc140ad051a9b398f668c5c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Stamina_System.cfg",
-      "hash": "9d5d4b8d25b3564bd6046ca7850ecbf2223b85f0",
+      "hash": "c72d8ca19c21966e7b014e12740266551a88a1a7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Tools.cfg",
-      "hash": "1716bb0f9d28b1bc30dab5e23419cafcde2ae589",
+      "hash": "9658a6286269d4360393656d34fa24819194b11e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/Weapons.cfg",
-      "hash": "2375c138e24b83a680c516271404e1f15a0973ea",
+      "hash": "588625dd594d7d85d6c0e4460ea9f41b8f0e7e2c",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/MineFantasyReforged/WorldGen.cfg",
-      "hash": "3044b406a1801a497d5e994ee9aac704886d6c8c",
+      "hash": "0d4cd5d9ba9cdcceffcd7855c63199e00e45e9b7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/natura.cfg",
-      "hash": "d5ae6dc3d102d8bda3a30fb0d853681d2ec82209",
+      "hash": "b1fb1e8dceed568e28799420cb9178ebcf39046e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/NaturaModules.cfg",
-      "hash": "91b3bc52b42dca7ba19e2af9faad29fe5cf610e8",
+      "hash": "166c99eb37445f1f675ce2a296d5c45cb5d62784",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/openblocks.cfg",
-      "hash": "5765a971f80474d54d32e26862d3ff650f43f40e",
+      "hash": "10be0043a0ede215582975c76868e2858274f973",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/openmods.cfg",
-      "hash": "2da8f92bc886772ce25d5e01309dbf04fe2675db",
+      "hash": "f76f3a22440bbb8478454444fa617ec00bf0dacb",
       "force": true,
       "type": "addon"
     },
@@ -4697,13 +4697,13 @@
     },
     {
       "path": "config/randomthings.cfg",
-      "hash": "0858625d66172bd22fe38e0d2ef885b0adfcb2d1",
+      "hash": "8b1faa7485134fcd2df4dbfd04b58843975942b6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/roguelike_dungeons/roguelike.cfg",
-      "hash": "64501f1d35c36aa69a3b4ce4a18678abbc56d6ab",
+      "hash": "b9fa9093bca4829b3f09e2efae6275aae7759c77",
       "force": true,
       "type": "addon"
     },
@@ -5651,787 +5651,787 @@
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/alps.cfg",
-      "hash": "61a8cba537387499a21740425190696e94233aa1",
+      "hash": "40d4b07d841f0fd3dff331078168af6b47e64620",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/alps_foothills.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/bamboo_forest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/bayou.cfg",
-      "hash": "32e50cc2a7b5ada9bc4c0e423f00b1836227ef65",
+      "hash": "7131a3f9422bb0f782b905e803e3a790e3d81d8f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/bog.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/boreal_forest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/brushland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/chaparral.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/cherry_blossom_grove.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/cold_desert.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/coniferous_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/coral_reef.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/crag.cfg",
-      "hash": "a75bdc78b08c40c40e386523e699e44204656f52",
+      "hash": "f947b0e95c53fb1413cc25a82380e3e0d98cd278",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/dead_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/dead_swamp.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/eucalyptus_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/fen.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/flower_field.cfg",
-      "hash": "ede95a1d364815c1976226be5a43fef7dafa3739",
+      "hash": "9b6949bf46c2e3a41e857d6df948b1ac543ea718",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/flower_island.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/glacier.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/grassland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/gravel_beach.cfg",
-      "hash": "e4a04f1a9c418f04833dba2355e034471f385e37",
+      "hash": "250488bb1c804d50cf91620d8298c434c9a49a2b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/grove.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/highland.cfg",
-      "hash": "41a1c50b22976eea553e6d8f6d896e8f6a2dbaa9",
+      "hash": "d9e394419b0186127936893d38701e871bcd611a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/kelp_forest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/land_of_lakes.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/lavender_fields.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/lush_desert.cfg",
-      "hash": "7359dedaf87e641824928c13d7f080a8a971a251",
+      "hash": "8308d040be77605da4c1b04c8725b5b49d19c18d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/lush_swamp.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/mangrove.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/maple_woods.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/marsh.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/meadow.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/moor.cfg",
-      "hash": "41a1c50b22976eea553e6d8f6d896e8f6a2dbaa9",
+      "hash": "d9e394419b0186127936893d38701e871bcd611a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/mountain.cfg",
-      "hash": "84c9c8c2034a55ad73b39ea1c64389b0dc427db9",
+      "hash": "b167b2850846cf6a0c01ed1d630af1a95b383b62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/mountain_foothills.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/mystic_grove.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/oasis.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/ominous_woods.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/orchard.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/origin_beach.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/origin_island.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/outback.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/overgrown_cliffs.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/pasture.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/prairie.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/quagmire.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/rainforest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/redwood_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/sacred_springs.cfg",
-      "hash": "bb9ec7ff8e59e54aa0e339f8dc5145414a29dc55",
+      "hash": "1f5a93612c840f5d9d8fea66768464b9c344b5b3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/seasonal_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/shield.cfg",
-      "hash": "ec4478bed76df5a93efa6a357afb094900196601",
+      "hash": "18ed3485e8d61f040af69ff028ced2a1bd663589",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/shrubland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/snowy_coniferous_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/snowy_forest.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/steppe.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/temperate_rainforest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/tropical_island.cfg",
-      "hash": "ec4478bed76df5a93efa6a357afb094900196601",
+      "hash": "18ed3485e8d61f040af69ff028ced2a1bd663589",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/tropical_rainforest.cfg",
-      "hash": "61a8cba537387499a21740425190696e94233aa1",
+      "hash": "40d4b07d841f0fd3dff331078168af6b47e64620",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/tundra.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/volcanic_island.cfg",
-      "hash": "61a8cba537387499a21740425190696e94233aa1",
+      "hash": "40d4b07d841f0fd3dff331078168af6b47e64620",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/wasteland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/wetland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/white_beach.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/woodland.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/biomesoplenty/xeric_shrubland.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/thaumcraft/eerie.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/thaumcraft/magical_forest.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/beaches.cfg",
-      "hash": "016223614771e70c6847d638fc67b341181fdb94",
+      "hash": "c3749b70c6acc2bcd44ecd8fa4a4252ce8cfaca6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/birch_forest.cfg",
-      "hash": "ec4478bed76df5a93efa6a357afb094900196601",
+      "hash": "18ed3485e8d61f040af69ff028ced2a1bd663589",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/birch_forest_hills.cfg",
-      "hash": "bc0a25757cb32fa823a91caaa6070655fbd601c1",
+      "hash": "f190f563e71a95bf06173501d6538e4cecd27d15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/cold_beach.cfg",
-      "hash": "9377017217d2bd8946d7a3cca8a7c483953aed86",
+      "hash": "d14fc7c38637672fd1ca48764c930115500ea492",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/deep_ocean.cfg",
-      "hash": "0303d171565949cc4e5f51ce854993b1daa8c3fe",
+      "hash": "43fef7fe0c76dfef366f9ec8a2c67ee214cee97b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/desert.cfg",
-      "hash": "910cbc53e1173368e765f8056539c2326c2d34b8",
+      "hash": "567b018bc2437e03e1ef0f6ffc0765dd1ba017ac",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/desert_hills.cfg",
-      "hash": "38dae02e9edf813240635344f47d40a04fc0cc86",
+      "hash": "3d9172a95132b4f19dbff628df8c048db52dac99",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/extreme_hills.cfg",
-      "hash": "031772a0d0d8399aa7797573c80ed03f98cfa454",
+      "hash": "df9f6c3ca41b202961f7ea2b7c1e712e6a8e0091",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/extreme_hills_with_trees.cfg",
-      "hash": "862b750568631fd185aecb2d6ec3e41e58e52d4b",
+      "hash": "14d53e2474a70d229a2d2d921bbbd88e31c50bb3",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/forest.cfg",
-      "hash": "9abc983f6ffa6d3aaa6f420aa0c970febe8c872a",
+      "hash": "0a7a534e3aecebdcba3914d92a34f2e98da97a67",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/forest_hills.cfg",
-      "hash": "7a8086137563fb5c875678bfaf1b39b3e4c1df8a",
+      "hash": "a1b0f473f8b62654b99f9efe5e4029e75fdfc88d",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/frozen_ocean.cfg",
-      "hash": "bfdcffc75a42658a425e8ac6eb2d1c96fde86df4",
+      "hash": "dfcb73784372962af174c679afd6110e5e840d2e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/frozen_river.cfg",
-      "hash": "cba6420cf9d455e8bacf1e190437044e3287cd3f",
+      "hash": "c88dc6f20bdbda5479dd7c1c8b54ae4f81e9e0a1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/ice_flats.cfg",
-      "hash": "c756cdf921d91593691061144cf563270cb8fa0c",
+      "hash": "4ae62ca875dea6caed63f4bd5275552686ddbf6b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/ice_mountains.cfg",
-      "hash": "a89aef298974a3942cbaac7532b872150d28c120",
+      "hash": "d23e17c4d0ce7b15aa7025ceb6d02acb54e9fb8f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/jungle.cfg",
-      "hash": "ecb2b56c98d19b187ecbceef03e1706ea4b927be",
+      "hash": "cb276125a7b5aea0b5766b784c78c27c56e7d627",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/jungle_edge.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/jungle_hills.cfg",
-      "hash": "01176c45fe4546d53fb26821a0b6a3595996914b",
+      "hash": "9e4addb7dd58e56322087cf8421dfce42dc96e55",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mesa.cfg",
-      "hash": "5a252ac4a1eb7af97d404e3e9c9c6027c226c965",
+      "hash": "fbf4a46b0bb8547513b7b122f44b11a0201e005f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mesa_clear_rock.cfg",
-      "hash": "595f9a990734b4da506a888a28ee3cf6f54d0f2b",
+      "hash": "6367d8fa741992ab014b2d5827e8479c7b6b2607",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mesa_rock.cfg",
-      "hash": "71595a21c2a2b52c016e8a7e2f662679dd9b47f8",
+      "hash": "43491ab39269d8a7df1315f9374e4d82751b5e3a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mushroom_island.cfg",
-      "hash": "a77702c071df2e87739f315b6c1a743d216f93a8",
+      "hash": "f178dbb6f9a84406f95f3f00f9eface0c2aef4af",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mushroom_island_shore.cfg",
-      "hash": "a77702c071df2e87739f315b6c1a743d216f93a8",
+      "hash": "f178dbb6f9a84406f95f3f00f9eface0c2aef4af",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_birch_forest.cfg",
-      "hash": "bc0a25757cb32fa823a91caaa6070655fbd601c1",
+      "hash": "f190f563e71a95bf06173501d6538e4cecd27d15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_birch_forest_hills.cfg",
-      "hash": "e6664528a0a462bde6623f24182022ff16bca2f9",
+      "hash": "fa67ab55481c6b8b0d0777aa1be8cbcf5d0b2ed6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_desert.cfg",
-      "hash": "fa8a1ab1e1f2d41165fe69671f6f1ee6d779edaa",
+      "hash": "b6eca3d3bbb80af871a97f36a2f258931d6e885f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_extreme_hills.cfg",
-      "hash": "b98bd64a7dfcc0e99ba335ba0d749fcbfa94280a",
+      "hash": "71690efb6df6578f2d4dd421da86e70d952f4061",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_extreme_hills_with_trees.cfg",
-      "hash": "e3bee084189a2cdfefc1d9a3ec37eea59bb1f207",
+      "hash": "87563eb23fd2a109adbc7783ff07755fe14f6a75",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_forest.cfg",
-      "hash": "ec4478bed76df5a93efa6a357afb094900196601",
+      "hash": "18ed3485e8d61f040af69ff028ced2a1bd663589",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_ice_flats.cfg",
-      "hash": "ffb3da2342430216ccb88b20d7c8b05cfe964aee",
+      "hash": "6236616d20bf79df06a04633b89518429bd9c6ed",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_jungle.cfg",
-      "hash": "576808a3d81576a0430a3dd00756ac1194e3ca7a",
+      "hash": "0e86a6cc2f9f36cca6f9254c55b172fcfd177216",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_jungle_edge.cfg",
-      "hash": "84c9c8c2034a55ad73b39ea1c64389b0dc427db9",
+      "hash": "b167b2850846cf6a0c01ed1d630af1a95b383b62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_mesa.cfg",
-      "hash": "29641e71ace408e86869de04abc47b3a0f92b477",
+      "hash": "8c3c00bfc220b26467171f6c2933015af4019168",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_mesa_clear_rock.cfg",
-      "hash": "595f9a990734b4da506a888a28ee3cf6f54d0f2b",
+      "hash": "6367d8fa741992ab014b2d5827e8479c7b6b2607",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_mesa_rock.cfg",
-      "hash": "71595a21c2a2b52c016e8a7e2f662679dd9b47f8",
+      "hash": "43491ab39269d8a7df1315f9374e4d82751b5e3a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_plains.cfg",
-      "hash": "7054ddda30e5afccc13a17c30537858d9e1dff54",
+      "hash": "4d16b7b4a2f8c5dd401a9f38e255223d51d83483",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_redwood_taiga.cfg",
-      "hash": "e6664528a0a462bde6623f24182022ff16bca2f9",
+      "hash": "fa67ab55481c6b8b0d0777aa1be8cbcf5d0b2ed6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_redwood_taiga_hills.cfg",
-      "hash": "e6664528a0a462bde6623f24182022ff16bca2f9",
+      "hash": "fa67ab55481c6b8b0d0777aa1be8cbcf5d0b2ed6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_roofed_forest.cfg",
-      "hash": "bc0a25757cb32fa823a91caaa6070655fbd601c1",
+      "hash": "f190f563e71a95bf06173501d6538e4cecd27d15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_savanna.cfg",
-      "hash": "da977b090e12629b84713926c0a7049e15b53b6b",
+      "hash": "5f1df5a93f8ef3b2cc915f32cd6017eca36e92e4",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_savanna_rock.cfg",
-      "hash": "95c6ee4f2ad51c0e36c08a122dedaced040f87a2",
+      "hash": "4a92497d949baf39c8368e2dcabf4aeaa3b3b17e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_swampland.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_taiga.cfg",
-      "hash": "bc0a25757cb32fa823a91caaa6070655fbd601c1",
+      "hash": "f190f563e71a95bf06173501d6538e4cecd27d15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/mutated_taiga_cold.cfg",
-      "hash": "84c9c8c2034a55ad73b39ea1c64389b0dc427db9",
+      "hash": "b167b2850846cf6a0c01ed1d630af1a95b383b62",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/ocean.cfg",
-      "hash": "0303d171565949cc4e5f51ce854993b1daa8c3fe",
+      "hash": "43fef7fe0c76dfef366f9ec8a2c67ee214cee97b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/plains.cfg",
-      "hash": "247aa176ba019b0bc616d580f90afc0a12265320",
+      "hash": "7e709d9d93568fcdd19bfbde0b3811da05ac75e7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/redwood_taiga.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/redwood_taiga_hills.cfg",
-      "hash": "e6664528a0a462bde6623f24182022ff16bca2f9",
+      "hash": "fa67ab55481c6b8b0d0777aa1be8cbcf5d0b2ed6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/river.cfg",
-      "hash": "cba6420cf9d455e8bacf1e190437044e3287cd3f",
+      "hash": "c88dc6f20bdbda5479dd7c1c8b54ae4f81e9e0a1",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/roofed_forest.cfg",
-      "hash": "501724d0f45bed87dc9094860b27a38e6b00511e",
+      "hash": "4534cee7c262ab9d7c3434973eeaed463febc1dc",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/savanna.cfg",
-      "hash": "f54fc254e91ba4d3c3e2258c2af230902b254200",
+      "hash": "d6983f43ae55113b3e7245b447ba3a3320d3279b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/savanna_rock.cfg",
-      "hash": "95c6ee4f2ad51c0e36c08a122dedaced040f87a2",
+      "hash": "4a92497d949baf39c8368e2dcabf4aeaa3b3b17e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/smaller_extreme_hills.cfg",
-      "hash": "031772a0d0d8399aa7797573c80ed03f98cfa454",
+      "hash": "df9f6c3ca41b202961f7ea2b7c1e712e6a8e0091",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/stone_beach.cfg",
-      "hash": "e4a04f1a9c418f04833dba2355e034471f385e37",
+      "hash": "250488bb1c804d50cf91620d8298c434c9a49a2b",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/swampland.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/taiga.cfg",
-      "hash": "d860bcdaa34e1d5adff1dfdc158136d4a22616c5",
+      "hash": "89b99580711887fd3838204de0436d1de0bb4d54",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/taiga_cold.cfg",
-      "hash": "97441ff57fc7b6a486b3b18c1ff75d9708832163",
+      "hash": "9adc7bc94b73bbb1f671790e2759558340fc34de",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/taiga_cold_hills.cfg",
-      "hash": "e6664528a0a462bde6623f24182022ff16bca2f9",
+      "hash": "fa67ab55481c6b8b0d0777aa1be8cbcf5d0b2ed6",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/biomes/vanilla/taiga_hills.cfg",
-      "hash": "bc0a25757cb32fa823a91caaa6070655fbd601c1",
+      "hash": "f190f563e71a95bf06173501d6538e4cecd27d15",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/RTG/rtg.cfg",
-      "hash": "f96044da805d56c5c9777fa163530f7d1f61da4c",
+      "hash": "9f9274b6d6286b0a4c55b2d427648befc6210bb9",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/solcarrot.cfg",
-      "hash": "e1db0de4f175ea6e88434c2503b2bd09198dc7df",
+      "hash": "f5a6c0cc1dd8277563eddd9c935121f793be5069",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/spawnercontrol/spawnercontrol.cfg",
-      "hash": "b650b4d1bce1b0d8ff5ba3ab211462d8fd4663ca",
+      "hash": "f2420b9c9948de32c4b65261601fc3d2cf72d8c0",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/Special_Mobs.cfg",
-      "hash": "c20fedd22f2ea419081ae965d5ea07cd03cb8286",
+      "hash": "f81ca08b08b1cf424fa0b819ff7d8d9bbc1e851b",
       "force": true,
       "type": "addon"
     },
@@ -6443,121 +6443,121 @@
     },
     {
       "path": "config/spiceoflife.cfg",
-      "hash": "121c0d324725aa4399580d56c4665d0a81a313be",
+      "hash": "d9ed60a38768e37e4b2aae73338c17cfbd43304e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/splash.properties",
-      "hash": "de5c5ffbc551fb471c013d7eedaeb65bc508ae49",
+      "hash": "f15c05a748125dd79ff12c887128d9638d311e35",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/storagedrawers.cfg",
-      "hash": "3ba9cceb9f8035bc75a68a75f11a0d0634b1adb8",
+      "hash": "4b2b182d4c18b787d6444ea28cda0029d794a508",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/.config_version",
-      "hash": "d583c3aa489ed954df3be71e71deae3a9895857e",
+      "hash": "7448d8798a4380162d4b56f9b452e2f6f9e24e7a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/agneyastra.json",
-      "hash": "f0dc81bb5a18b87da468c0cfbffed30b48d04942",
+      "hash": "314c59c1563cda322fc2d7d71e0aa0ab3947741f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/ancient_arrow.json",
-      "hash": "4632ea0ca06df041e174f0a5b19997bbfe59bc66",
+      "hash": "aee306d5937df434d1f603394b1b2911e9e56213",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/crystal_sceptre.json",
-      "hash": "23e4b7b93101489df862b26abafe7f7942155578",
+      "hash": "7676edcb6b4c34f43a02ea490d2150cdbad3be24",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/dragon_tooth.json",
-      "hash": "5666280ba298c274c7a7b0710d78d48bf19acd55",
+      "hash": "c100de73151ae261765984ff5a731de731114370",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/guardian_angel.json",
-      "hash": "0a8b57c9c0206057e71f34c5730b42d73fc4962e",
+      "hash": "0e45cccb51474c7a7db9c8f41740f0e531013203",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/infinity_edge.json",
-      "hash": "26926809432c8793d53cc199ed2405a6f5d7010c",
+      "hash": "65edbc269f8fe416b79088066c9e147c05276a4e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/light_shoes.json",
-      "hash": "aad164d7bab86380fc3e38fa65e81670448d468d",
+      "hash": "641160eb94ae6243199522e9ec46e604d83025a7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/maelstrom.json",
-      "hash": "c406a382b94f042c0ed0ff42cc2aef94a0971168",
+      "hash": "102c039ceade2b48beb64e8636bf7737e5f0be1a",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/morning_star.json",
-      "hash": "a476b7421baff6a664e6dcd97c13171d168ca4a5",
+      "hash": "6b60956a8f2a9dd944bca0c73090a36e0f8fca23",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/ms_erudita.json",
-      "hash": "fd4930a17a4e279fa621a14da98c10b0479996b5",
+      "hash": "2a3c7151a7a37f2439e4b7580d222432699d9bbe",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/myriad_slashes.json",
-      "hash": "1ee0c4c3f11bc47b172c9dc5b12d9971f1afea95",
+      "hash": "319a4ba12e11074fb51951466a31b6f6545a662f",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/phase_boots.json",
-      "hash": "cb0394e57031941a74546bfa80d31320a82d661a",
+      "hash": "4d09503411e10e9fa5fc093204d699fdc0019c09",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/stormbow.json",
-      "hash": "23a39539efb93252ddbbf5c267447e91cd9faaac",
+      "hash": "12a9a0117410776258fdabf539bec7a58bb590cf",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo/artifacts/werebane.json",
-      "hash": "bd5de4a2a3956edc61e7ccae0f56cf473ad45bbd",
+      "hash": "6d8d24582b77e8e0afbcdf0b0b0780709d806e76",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconevo.cfg",
-      "hash": "9b1c1062d3d7357ade8a35b76055af793b417c97",
+      "hash": "0a9704cba552b7527f3c769951aff6d5bcdb88d5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/tconstruct.cfg",
-      "hash": "380df75c7bc844f7eaefc61369dd7e81050e8593",
+      "hash": "0e4e70e161ff3e2cfcd1d0d70d7f4a7d8949e2a5",
       "force": true,
       "type": "addon"
     },
@@ -6671,43 +6671,43 @@
     },
     {
       "path": "config/tcresearchpatcher.cfg",
-      "hash": "88eca8f4fec58ed4a96f9d53c51390cfcc9aa4b2",
+      "hash": "48eaef6fa7cad11748a0e9b78d675823d1632c73",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumcraft_graphics.cfg",
-      "hash": "bec564a624949a0db2924f2369b816f51a916daa",
+      "hash": "cafee06210dfad0f34bce0549fecce4cf9eccdba",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumcraft_misc.cfg",
-      "hash": "c931f05e85720323322706cd07a74ce1df4b1850",
+      "hash": "94ecfec5127c6ccc1853cf4f5653e8aebb7bfac8",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumcraft_world.cfg",
-      "hash": "31dd7261f187adef172ea76690a8966722f9c566",
+      "hash": "40957d4a748655b593ecbea074366bc2daa9c130",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumicaugmentation.cfg",
-      "hash": "2768e0f37f15b47cba450cec6dc817d41ef90b5b",
+      "hash": "9efaa9cbe0806211bb1fbfce3733a9984424b7b7",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumicenergistics.cfg",
-      "hash": "503b72c659b15ff123b2224531346859609fd23c",
+      "hash": "e356d1fd35abda99f581980aa741d42714da958e",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumicjei.cfg",
-      "hash": "03f415ba1706913445c4991d4ae65991ec625c99",
+      "hash": "dd52d989aa4e8a19eee87544f0a3c10b08bcefdb",
       "force": true,
       "type": "addon"
     },
@@ -6719,31 +6719,31 @@
     },
     {
       "path": "config/thaumictinkerer.cfg",
-      "hash": "8d08564bf7dfbe4657022c4e1ea7f5699f250c96",
+      "hash": "60cd341fe6eb15dd123e9b2507a5778798e93aae",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/thaumic_periphery.cfg",
-      "hash": "7abdad2e1a88bb7e50f502125cd400d6561a2b7d",
+      "hash": "bce1d6a23ccbc73ec7510c9bef09d830310a32d5",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/TinkerModules.cfg",
-      "hash": "d65702bc60dcf651de375d2efd15e05028a6e8be",
+      "hash": "985c32dc4c52463c99c6504235b94a2dd84cc226",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/travelersbackpack.cfg",
-      "hash": "f4214ac68b496dc793ed545d3f109087dee89dd5",
+      "hash": "6f1afa94647a186848c630857082341165e2f6ce",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/twilightforest.cfg",
-      "hash": "4f7fb7b1aee9b6ba12c32f259f9c39c2540cf953",
+      "hash": "b03eccbda1032aa60f5f9bd2360bd6d8c898a890",
       "force": true,
       "type": "addon"
     },
@@ -6755,7 +6755,7 @@
     },
     {
       "path": "config/vanillafix.cfg",
-      "hash": "5266b4bc0bdc4422a6fc153c057ac4dafef0adab",
+      "hash": "875c5a777c065abe8d98ae05469a4519bca5d3b6",
       "force": true,
       "type": "addon"
     },
@@ -6773,13 +6773,19 @@
     },
     {
       "path": "config/waila/waila.cfg",
-      "hash": "d00c88c92cddb0a6590c9980089aaa840aaa5784",
+      "hash": "c6f0813abc14460ade18bf5d12d56a170a73f126",
       "force": true,
       "type": "addon"
     },
     {
       "path": "config/wailaharvestability.cfg",
-      "hash": "96845f2baff2eee31191b6fb9f77f4478bff6cf0",
+      "hash": "3ce6952d00add04d8688ce09768be064572020cc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/!mixinbooter-5.0.jar",
+      "hash": "cacbf51a371348f8b9f834c27e15edab06b28c72",
       "force": true,
       "type": "addon"
     },
@@ -6796,8 +6802,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/appliedenergistics2-rv6-stable-7-extended_life-v0.52.8.jar",
-      "hash": "0846b4d432af845514077de21d6a051e22fd06eb",
+      "path": "mods/appliedenergistics2-rv6-stable-7-extended_life-v0.53.5.jar",
+      "hash": "20284ea794e126d22bc4a51df89da34791c24501",
       "force": true,
       "type": "addon"
     },
@@ -6814,8 +6820,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/BetterFps-1.4.8.jar",
-      "hash": "245235d5c67daff00ee658ee1f88ae8c3e4584b8",
+      "path": "mods/BetterCombat-1.12.2-1.5.6.jar",
+      "hash": "ebc023c448c1897ab67296814ca2820d3be883c3",
       "force": true,
       "type": "addon"
     },
@@ -6886,6 +6892,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/Fluid Craft for AE2-2.3.4-r.jar",
+      "hash": "99e6f2fef513bea8a2de7e1ce54d3d77f779ab49",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/foamfix-0.10.14-1.12.2.jar",
       "hash": "b7f247a306e9521f3bade46ea643989702be6a14",
       "force": true,
@@ -6916,8 +6928,20 @@
       "type": "addon"
     },
     {
+      "path": "mods/HadEnoughItems_1.12.2-4.24.0.jar",
+      "hash": "24bf7b901188c039ff7e46df41a6e4104ca9b226",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/HardcoreDarkness-MC1.12.2-2.0.jar",
       "hash": "1bced77c70bbc1442412c397e1ca108627bda282",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/hecharacters-1.12.2-1.2.0.jar",
+      "hash": "c91f0bb8ebe49113b057b7b8b372fa033efb0461",
       "force": true,
       "type": "addon"
     },
@@ -6952,12 +6976,6 @@
       "type": "addon"
     },
     {
-      "path": "mods/jei_1.12.2-4.16.1.302.jar",
-      "hash": "3e88d2896ca868c3cedb65e117ad3a1b82488fa8",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/journeymap-1.12.2-5.7.1.jar",
       "hash": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
       "force": true,
@@ -6966,6 +6984,12 @@
     {
       "path": "mods/libnine-1.12.2-1.2.1.jar",
       "hash": "ddc1c41f54b912bae388445c40cf4aa27fdcfe3d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/loliasm-5.6.jar",
+      "hash": "47811ff3df2a56435e9518bd62a0eb5d92ea4f40",
       "force": true,
       "type": "addon"
     },
@@ -6990,6 +7014,12 @@
     {
       "path": "mods/MTLib-3.0.7.jar",
       "hash": "7d2b9e97518dca1e9326fd347ba1eb93dec35999",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/multiblocktweaker-1.12.2-stable-gtceu-1.8.0.jar",
+      "hash": "0609476b9a3a37150e1976f18dd4d8c6c4813436",
       "force": true,
       "type": "addon"
     },
@@ -7090,8 +7120,8 @@
       "type": "addon"
     },
     {
-      "path": "mods/thaumicenergistics-v2.2.3-delfayne-fork-SNAPSHOT-2.jar",
-      "hash": "7063901cb32d3653853d809514b44177199b2718",
+      "path": "mods/thaumicenergistics-2.2.5.jar",
+      "hash": "4e00398c07232913b3de142a49fd0f11a6b8529b",
       "force": true,
       "type": "addon"
     },
@@ -7138,6 +7168,12 @@
       "type": "addon"
     },
     {
+      "path": "mods/Tips-1.12.2-1.0.9.jar",
+      "hash": "9790e6083bbeab78e045c027c964495133507efa",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "mods/TravelersBackpack-1.12.2-1.0.35.jar",
       "hash": "5c9157582cc081f0d3b4090f3a2dbc5cfbe70cc6",
       "force": true,
@@ -7150,26 +7186,26 @@
       "type": "addon"
     },
     {
-      "path": "mods/VanillaFix-1.0.10-150.jar",
-      "hash": "646fc28aa81773662e33a3b447e830b816528fc9",
-      "force": true,
-      "type": "addon"
-    },
-    {
       "path": "mods/WailaHarvestability-mc1.12-1.1.12.jar",
       "hash": "7e1abc8dd61390285167284a5eb3bf0e57a52760",
       "force": true,
       "type": "addon"
     },
     {
+      "path": "mods/_MixinBootstrap-1.1.0.jar",
+      "hash": "f9173708d3d2850ab8df778b9594b81cb94b1df8",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "resources/gregtech/lang/en_us.lang",
-      "hash": "067af0c17451f3dfe247b9e61c1cab6b881ca26c",
+      "hash": "1a5d93e585a745ad0c0017fe790af29cea273e11",
       "force": true,
       "type": "addon"
     },
     {
       "path": "resources/gregtech/lang/zh_cn.lang",
-      "hash": "07b3e3dc65ca24791528cc20f5d82554cc4b7c03",
+      "hash": "071450ed2a9a814baa247e420d99f50826505c69",
       "force": true,
       "type": "addon"
     },
@@ -7186,8 +7222,14 @@
       "type": "addon"
     },
     {
-      "path": "scripts/gregtech_recipemaps.zs",
-      "hash": "6f38053d98be66a5aa1862b4d3720d29a4cbf352",
+      "path": "scripts/custom_items.zs",
+      "hash": "b5af7344dcf6d2f7b488b29cb456d420825cd75d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "scripts/gregtech.zs",
+      "hash": "1234fa51c7e40aa4d05ee12dd8307cb1b014e2a2",
       "force": true,
       "type": "addon"
     },
@@ -7210,6 +7252,12 @@
       "type": "addon"
     },
     {
+      "path": "scripts/packrecipes.zs",
+      "hash": "14eebf6c4e4f8750ab6dde2212c045b23c55a97b",
+      "force": true,
+      "type": "addon"
+    },
+    {
       "path": "scripts/storage_drawers.zs",
       "hash": "bc380b23e097b68412d86bf14e17d43db2ead9d0",
       "force": true,
@@ -7223,7 +7271,7 @@
     },
     {
       "path": "scripts/tc6_recipes.zs",
-      "hash": "5ff28af0fe67d831e1046991190b75b15077fd08",
+      "hash": "25ab24674765d215bc0cae034f9dafe2e1d4f062",
       "force": true,
       "type": "addon"
     }
