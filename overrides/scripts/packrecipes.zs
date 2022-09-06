@@ -24,8 +24,26 @@ recipes.remove(<harvestcraft:skilletitem>);
 recipes.remove(<harvestcraft:bakewareitem>);
 recipes.remove(<harvestcraft:mortarandpestleitem>);
 recipes.remove(<harvestcraft:mixingbowlitem>);
+recipes.remove(<tconstruct:toolforge:*>);
+recipes.remove(<openblocks:vacuum_hopper>);
+recipes.remove(<openblocks:cannon>);
+recipes.remove(<openblocks:sprinkler>);
+recipes.remove(<openblocks:sponge>);
+recipes.remove(<openblocks:elevator:*>);
+recipes.remove(<openblocks:builder_guide>);
+recipes.remove(<openblocks:guide>);
+recipes.remove(<openblocks:ladder>);
+recipes.remove(<harvestcraft:beeswaxitem>);
+recipes.remove(<harvestcraft:hardenedleatheritem>);
+recipes.remove(<openblocks:beartrap>);
+recipes.remove(<harvestcraft:grinder>);
+recipes.remove(<harvestcraft:well>);
+recipes.remove(<harvestcraft:shippingbin>);
+recipes.remove(<harvestcraft:market>);
 
 furnace.remove(<backpack:tanned_leather>);
+furnace.remove(<minecraft:glass>);
+furnace.remove(<minecraft:coal:1>);
 
 //#Add
 recipes.addShaped(<tconstruct:rack:*>, [[<ore:slabWood>, <ore:slabWood>, <ore:slabWood>],[<ore:screwWood>, <ore:gtceScrewdrivers>, <ore:screwWood>]]);
@@ -52,5 +70,15 @@ recipes.addShaped(<harvestcraft:skilletitem>, [[<ore:stickWood>, <ore:stickIron>
 recipes.addShaped(<harvestcraft:juiceritem>, [[<ore:plateStainlessSteel>, <ore:gtceHardHammers>, <ore:plateStainlessSteel>],[<ore:plateStainlessSteel>, <ore:toolHeadDrillStainlessSteel>, <ore:plateStainlessSteel>], [<ore:boltStainlessSteel>, <ore:plateStainlessSteel>, <ore:boltStainlessSteel>]]);
 recipes.addShaped(<harvestcraft:mortarandpestleitem>, [[<ore:gtceHardHammers>, <ore:stickStainlessSteel>, <ore:gtceFiles>],[<ore:stoneSmooth>, <ore:stickStainlessSteel>, <ore:stoneSmooth>], [<ore:stoneSmooth>, <ore:stoneSmooth>, <ore:stoneSmooth>]]);
 recipes.addShaped(<harvestcraft:mixingbowlitem>, [[<ore:screwIron>, <ore:gtceFiles>, <ore:screwIron>],[<ore:plateIron>, <minecraft:bucket>, <ore:plateIron>], [<ore:screwIron>, <ore:gtceHardHammers>, <ore:screwIron>]]);
+recipes.addShaped(<tconstruct:toolforge>, [[<tconstruct:large_plate>.withTag({Material: "knightslime"}).onlyWithTag({Material: "knightslime"}), <tconstruct:seared_slab>, <tconstruct:large_plate>.withTag({Material: "knightslime"}).onlyWithTag({Material: "knightslime"})],[<ore:blockIron>, <tconstruct:tooltables:3>, <ore:blockIron>], [<ore:blockIron>, <ore:gtceHardHammers>, <ore:blockIron>]]);
+recipes.addShaped(<openblocks:vacuum_hopper>, [[<ore:plateObsidian>, <minecraft:hopper>, <ore:plateObsidian>],[<minecraft:hopper>, <ore:plateEnderPearl>, <minecraft:hopper>], [<ore:plateObsidian>, <minecraft:hopper>, <ore:plateObsidian>]]);
+recipes.addShaped(<openblocks:cannon>, [[<ore:gtceSaws>, <ore:pipeLargeFluidSteel>, <ore:gtceHardHammers>],[<ore:gearWood>, <ore:plateSteel>, <ore:gearWood>], [<ore:plankWood>, <ore:wireGtSingleRedAlloy>, <ore:plankWood>]]);
+recipes.addShaped(<openblocks:sprinkler>, [[<ore:plateAluminium>, <ore:stickGold>, <ore:plateAluminium>],[<ore:pipeSmallFluidSteel>, <ore:gearBlackSteel>, <ore:pipeSmallFluidSteel>], [<ore:plateAluminium>, <ore:stickGold>, <ore:plateAluminium>]]);
+recipes.addShaped(<openblocks:beartrap>, [[<ore:barsIron>, <ore:gtceHardHammers>, <ore:barsIron>],[<ore:screwSteel>, <ore:plateSteel>, <ore:screwSteel>], [<ore:barsIron>, <ore:gtceFiles>, <ore:barsIron>]]);
+recipes.addShaped(<openblocks:elevator>, [[<ore:plateSteel>, <ore:plateEnderPearl>, <ore:plateSteel>],[<ore:gearSmallSteel>, <ore:frameGtAluminium>, <ore:gearSmallSteel>], [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]]);
+recipes.addShaped(<openblocks:guide>, [[<ore:stoneObsidian>, <minecraft:sea_lantern>, <ore:stoneObsidian>],[<minecraft:sea_lantern>, <gregtech:meta_lens:276>, <minecraft:sea_lantern>], [<ore:stoneObsidian>, <minecraft:sea_lantern>, <ore:stoneObsidian>]]);
+recipes.addShapeless(<gregtech:meta_dust:1615>, [<harvestcraft:flouritem>]);
 
 Drying.addRecipe(<backpack:tanned_leather>,<backpack:bound_leather>, 12000);
+
+recipes.replaceAllOccurences(<harvestcraft:flouritem>, <gregtech:meta_dust:1615>);
