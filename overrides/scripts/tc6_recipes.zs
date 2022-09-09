@@ -319,7 +319,7 @@ ArcaneWorkbench.registerShapedRecipe("Filter", "BASEALCHEMY", 30,
 ArcaneWorkbench.registerShapedRecipe("MorphicResonator", "BASEALCHEMY", 100,
     [<aspect:ignis> * 2, <aspect:aer> * 2], <thaumcraft:morphic_resonator>, [
     [<ore:screwThaumium>, <ore:paneGlass>, <ore:screwThaumium>],
-    [<ore:plateBrass>, <thaumcraft:nugget:10>, <ore:plateBrass>],
+    [<ore:plateBrass>, <ore:dustRareEarth>, <ore:plateBrass>],
     [<ore:screwThaumium>,<ore:paneGlass>,<ore:screwThaumium>]
     ]);
 
@@ -378,8 +378,8 @@ ArcaneWorkbench.registerShapedRecipe("TubeRestrict", "TUBES", 20,
 
 ArcaneWorkbench.registerShapedRecipe("EssentiaSmelterThaumium", "ESSENTIASMELTERTHAUMIUM", 300,
     [<aspect:ignis> * 4], <thaumcraft:smelter_thaumium>, [
-    [<ore:plateThaumium>, <thaumcraft:smelter_basic>, <ore:plateThaumium>],
-    [<ore:plateThaumium>, <gregtech:meta_item_1:98>, <ore:plateThaumium>],[<thaumcraft:alumentum>, <thaumcraft:metal_alchemical>, <thaumcraft:alumentum>]
+    [<ore:plateThaumium>, <gregtech:machine:1614>, <ore:plateThaumium>],
+    [<ore:plateBrass>, <thaumcraft:smelter_basic>, <ore:plateBrass>],[<ore:plateThaumium>, <thaumcraft:metal_alchemical>, <ore:plateThaumium>]
     ]);
 
 ArcaneWorkbench.registerShapedRecipe("mechanism_simple", "BASEARTIFICE", 50,
@@ -414,8 +414,8 @@ ArcaneWorkbench.registerShapedRecipe("patterncrafter", "ARCANEPATTERNCRAFTER", 1
 
 ArcaneWorkbench.registerShapedRecipe("GrappleGunTip", "GRAPPLEGUN", 50,
     [<aspect:terra> * 2], <thaumcraft:grapple_gun_tip>, [
-    [<thaumcraft:nugget:10>, <thaumcraft:nugget:10>, <minecraft:tripwire_hook>],
-    [<ore:listAllPlateRubber>, <ore:ringBrass>, <thaumcraft:nugget:10>],[<ore:listAllPlateRubber>, <ore:listAllPlateRubber>, <thaumcraft:nugget:10>]
+    [<ore:dustRareEarth>, <ore:dustRareEarth>, <minecraft:tripwire_hook>],
+    [<ore:listAllPlateRubber>, <ore:ringBrass>, <ore:dustRareEarth>],[<ore:listAllPlateRubber>, <ore:listAllPlateRubber>, <ore:dustRareEarth>]
     ]);
 
 ArcaneWorkbench.registerShapedRecipe("GrappleGunSpool", "GRAPPLEGUN", 50,
@@ -427,13 +427,13 @@ ArcaneWorkbench.registerShapedRecipe("GrappleGunSpool", "GRAPPLEGUN", 50,
 ArcaneWorkbench.registerShapedRecipe("ARCANEEAR", "ARCANEEAR", 20,
     [<aspect:aer> * 2], <thaumcraft:arcane_ear>, [
     [<ore:plateBrass>, <gregtech:meta_item_1:232>, <ore:plateBrass>],
-    [<ore:screwSteel>, <thaumcraft:mechanism_simple>, <ore:screwSteel>],[<ore:slabWood>, <ore:plateRedAlloy>, <ore:slabWood>]
+    [<ore:plateThaumium>, <thaumcraft:mechanism_simple>, <ore:plateThaumium>],[<ore:slabWood>, <ore:wireGtSingleRedAlloy>, <ore:slabWood>]
     ]);
 
 ArcaneWorkbench.registerShapedRecipe("VisGenerator", "VISGENERATOR", 100,
     [<aspect:ignis> * 2, <aspect:ordo> * 2], <thaumcraft:vis_generator>, [
     [<ore:plankTreatedWood>, <ore:plateRedAlloy>, <ore:plankTreatedWood>],
-    [<thaumcraft:nugget:10>, <gregtech:machine:985>, <thaumcraft:nugget:10>],[<ore:plankTreatedWood>, <thaumcraft:vis_resonator>, <ore:plankTreatedWood>]
+    [<ore:dustRareEarth>, <gregtech:machine:985>, <ore:dustRareEarth>],[<ore:plankTreatedWood>, <thaumcraft:vis_resonator>, <ore:plankTreatedWood>]
     ]);
 
 ArcaneWorkbench.registerShapedRecipe("InfusionMatrix", "INFUSION@1", 300,
@@ -566,31 +566,31 @@ Infusion.registerRecipe("ThaumiumFortressLegs", "ARMORFORTRESS", <thaumcraft:for
 
 Infusion.registerRecipe("BootsTraveller", "BOOTSTRAVELLER", <thaumcraft:traveller_boots>, 2,
     [<aspect:motus> * 100, <aspect:volatus> * 100], <minecraft:leather_boots>,
-    [<minecraft:fish>, <ore:itemEnchantedFabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]}), <ore:itemEnchantedFabric>,  <ore:feather>, <ore:itemEnchantedFabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]}), <ore:itemEnchantedFabric>]);
+    [<minecraft:fish>, <ore:itemEnchantedFabric>, <ore:blockInfusedAir>, <ore:itemEnchantedFabric>,  <ore:feather>, <ore:itemEnchantedFabric>, <ore:blockInfusedAir>, <ore:itemEnchantedFabric>]);
 
 Infusion.registerRecipe("elementalsword", "ELEMENTALTOOLS", <thaumcraft:elemental_sword>.withTag({infench: [{lvl: 2 as short, id: 5 as short}]}), 3,
     [<aspect:aer> * 30, <aspect:motus> * 30, <aspect:aversio> * 30], <thaumcraft:thaumium_sword>,
-    [<thaumcraft:nugget:10>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]}), <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]})]);
+    [<ore:dustRareEarth>, <thaumcraft:plank_greatwood>, <ore:blockInfusedAir>, <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <ore:blockInfusedAir>]);
 
 Infusion.registerRecipe("elementalshovel", "ELEMENTALTOOLS", <thaumcraft:elemental_shovel>.withTag({infench: [{lvl: 1 as short, id: 1 as short}]}), 3,
     [<aspect:terra> * 60, <aspect:fabrico> * 30], <thaumcraft:thaumium_shovel>,
-    [<thaumcraft:nugget:10>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "terra"}]}), <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "terra"}]})]);
+    [<ore:dustRareEarth>, <thaumcraft:plank_greatwood>, <ore:blockInfusedEarth>, <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <ore:blockInfusedEarth>]);
 
 Infusion.registerRecipe("elementalaxe", "ELEMENTALTOOLS", <thaumcraft:elemental_axe>.withTag({infench: [{lvl: 1 as short, id: 2 as short}, {lvl: 1 as short, id: 0 as short}]}), 3,
     [<aspect:aqua> * 60, <aspect:herba> * 30], <thaumcraft:thaumium_axe>,
-    [<thaumcraft:nugget:10>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aqua"}]}), <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aqua"}]})]);
+    [<ore:dustRareEarth>, <thaumcraft:plank_greatwood>, <ore:blockInfusedWater>, <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <ore:blockInfusedWater>]);
 
 Infusion.registerRecipe("elementalpick", "ELEMENTALTOOLS", <thaumcraft:elemental_pick>.withTag({infench: [{lvl: 1 as short, id: 4 as short}, {lvl: 2 as short, id: 3 as short}]}), 3,
     [<aspect:metallum> * 30, <aspect:ignis> * 30, <aspect:sensus> * 30], <thaumcraft:thaumium_pick>,
-    [<thaumcraft:nugget:10>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ignis"}]}), <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ignis"}]})]);
+    [<ore:dustRareEarth>, <thaumcraft:plank_greatwood>, <ore:blockInfusedFire>, <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <ore:blockInfusedFire>]);
 
 Infusion.registerRecipe("elementalhoe", "ELEMENTALTOOLS", <thaumcraft:elemental_hoe>, 3,
     [<aspect:perditio> * 30, <aspect:herba> * 30, <aspect:ordo> * 30], <thaumcraft:thaumium_hoe>,
-    [<thaumcraft:nugget:10>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "perditio"}]}), <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "ordo"}]})]);
+    [<ore:dustRareEarth>, <thaumcraft:plank_greatwood>, <ore:blockInfusedEntropy>, <ore:gemFlawlessDiamond>, <thaumcraft:plank_greatwood>, <ore:blockInfusedOrder>]);
 
 Infusion.registerRecipe("CLOUDRING", "CLOUDRING", <thaumcraft:cloud_ring>, 1,
     [<aspect:aer> * 50], <thaumcraft:baubles:1>,
-    [<minecraft:feather>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "aer"}]})]);
+    [<minecraft:feather>, <ore:blockInfusedAir>]);
 
 Infusion.registerRecipe("CuriosityBand", "CURIOSITYBAND", <thaumcraft:curiosity_band>, 4,
     [<aspect:cognitio> * 150, <aspect:vacuos> * 50, <aspect:vinculum> * 100], <thaumcraft:baubles:6>,
@@ -598,7 +598,7 @@ Infusion.registerRecipe("CuriosityBand", "CURIOSITYBAND", <thaumcraft:curiosity_
 
 Infusion.registerRecipe("ArcaneBore", "ARCANEBORE", <thaumcraft:turret:2>, 6,
     [<aspect:machina> * 150, <aspect:potentia> * 25, <aspect:terra> * 25, <aspect:vacuos> * 25, <aspect:motus> * 25], <thaumcraft:turret>,
-    [<ore:toolHeadPickaxeDiamond>, <thaumcraft:arcane_ear>, <thaumcraft:nugget:10>, <gregtech:meta_item_1:218>, <ore:gemExquisiteGreenSapphire>, <gregtech:meta_item_1:233>, <thaumcraft:nugget:10>, <thaumcraft:mechanism_complex>, <ore:toolHeadShovelDiamond>, <thaumcraft:mind>]);
+    [<thaumcraft:plank_greatwood>, <ore:dustRareEarth>, <gregtech:meta_item_1:173>, <ore:gemExquisiteGreenSapphire>, <ore:dustRareEarth>, <thaumcraft:mechanism_complex>, <ore:toolHeadDrillDiamond>, <thaumcraft:mind>]);
 
 Infusion.registerRecipe("JarBrain", "JARBRAIN", <thaumcraft:jar_brain>, 4,
     [<aspect:cognitio> * 25, <aspect:sensus> * 25, <aspect:exanimis> * 25], <thaumcraft:jar_normal>,
